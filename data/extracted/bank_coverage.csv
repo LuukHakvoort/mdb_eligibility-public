@@ -1,0 +1,6 @@
+bank,coverage_start_year,coverage_end_year,note
+CAF,2006,,IATI Registry activity file (publisher 'caf'). CAF's public project portfolio page (caf.com/es/proyectos/) is protected site-wide by Incapsula bot-challenge that also blocks headless-browser automatio
+CDB,2013,2023,CDB's own page text: 'This map shows a selection of capital projects approved during the period 2013-2026... to gain access to the Bank's project archive' [contact CDB directly]. Confirmed live (2026-
+AIIB,2016,,"Published AIIB project list; detail availability varies by project. Checked against a 2026-09-16 print of the approved-projects list (official_sources.json); founded 2016, so earlier years are not cov"
+BADEA,,2022,The interactive map is a Tableau Public embed with no plain HTML/JSON listing and no IATI Registry presence. Its 'pie' worksheet's initial (unfiltered) vizql payload discloses financing totals buckete
+NDB,2016,,NDB published project cards and detail pages. Founded 2015; first approvals 2016.

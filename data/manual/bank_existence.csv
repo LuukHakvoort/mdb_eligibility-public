@@ -1,0 +1,15 @@
+bank,start_year,end_year,source,note
+IBRD,1945,,IBRD Articles of Agreement effective 27 Dec 1945; first loan 1947,Operational throughout 2002-2026; exact founding year has no effect on this panel
+IDA,1960,,IDA Articles of Agreement effective 24 Sep 1960,Operational throughout 2002-2026
+AfDB,1964,,African Development Bank Agreement signed 1963/effective 1964; operations began 1966,Operational throughout 2002-2026
+AsDB,1966,,Asian Development Bank established 1966,Operational throughout 2002-2026
+IDB,1959,,Inter-American Development Bank established Dec 1959; operations began 1960,Operational throughout 2002-2026
+EBRD,1991,,EBRD established 1991,Operational throughout 2002-2026
+EIB,1958,,European Investment Bank established under the 1957 Treaty of Rome,Operational throughout 2002-2026
+IsDB,1975,,Islamic Development Bank Articles of Agreement 1973-74; operations began Oct 1975,Operational throughout 2002-2026
+CAF,1970,,CAF (Corporacion Andina de Fomento) established 1970,Operational throughout 2002-2026
+CDB,1970,,Caribbean Development Bank established by 1969 agreement; opened 1970,Operational throughout 2002-2026
+AIIB,2016,,AIIB Articles of Agreement effective 25 Dec 2015; first operations Jan 2016,Matches banks.json coverage_start_year; the only pre-2002-founding exception in this table
+BADEA,1975,,BADEA established 1974; operations began 1975,Operational throughout 2002-2026
+NDB,2015,,NDB Agreement signed July 2014; entered into force July 2015; first project approved 2016,Judgement call: 2015 (existed) vs 2016 (first lending) -- see note in checklist doc
+CABEI,1960,,CABEI (BCIE) established 1960,Operational throughout 2002-2026

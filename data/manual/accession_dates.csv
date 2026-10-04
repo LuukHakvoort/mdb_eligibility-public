@@ -1,0 +1,822 @@
+bank,iso3,country_name,accession_date,source,note,earliest_observed_year
+IBRD,AGO,Angola,,,,2010
+IBRD,ALB,Albania,,,,2006
+IBRD,ARG,Argentina,,,,2003
+IBRD,ARM,Armenia,,,,2004
+IBRD,ATG,Antigua and Barbuda,,,,2013
+IBRD,AZE,Azerbaijan,,,,2005
+IBRD,BEN,Benin,,,,2010
+IBRD,BGR,Bulgaria,,,,2002
+IBRD,BHS,Bahamas (the),,,,2021
+IBRD,BIH,Bosnia and Herzegovina,,,,2008
+IBRD,BLR,Belarus,,,,2006
+IBRD,BLZ,Belize,,,,2010
+IBRD,BOL,Bolivia (Plurinational State of),,,,2004
+IBRD,BRA,Brazil,,,,2002
+IBRD,BRB,Barbados,,,,2008
+IBRD,BTN,Bhutan,,,,2026
+IBRD,BWA,Botswana,,,,2008
+IBRD,CHL,Chile,,,,2002
+IBRD,CHN,China,,,,2002
+IBRD,CIV,Côte d'Ivoire,,,,2009
+IBRD,CMR,Cameroon,,,,2007
+IBRD,COG,Congo (the),,,,2010
+IBRD,COL,Colombia,,,,2002
+IBRD,CPV,Cabo Verde,,,,2012
+IBRD,CRI,Costa Rica,,,,2005
+IBRD,DMA,Dominica,,,,2002
+IBRD,DOM,Dominican Republic (the),,,,2002
+IBRD,DZA,Algeria,,,,2002
+IBRD,ECU,Ecuador,,,,2002
+IBRD,EGY,Egypt,,,,2002
+IBRD,ETH,Ethiopia,,,,2009
+IBRD,FJI,Fiji,,,,2015
+IBRD,GAB,Gabon,,,,2005
+IBRD,GEO,Georgia,,,,2004
+IBRD,GRD,Grenada,,,,2002
+IBRD,GTM,Guatemala,,,,2002
+IBRD,HND,Honduras,,,,2011
+IBRD,HRV,Croatia,,,,2002
+IBRD,HUN,Hungary,,,,2009
+IBRD,IDN,Indonesia,,,,2002
+IBRD,IND,India,,,,2002
+IBRD,IRN,Iran (Islamic Republic of),,,,2003
+IBRD,IRQ,Iraq,,,,2010
+IBRD,JAM,Jamaica,,,,2002
+IBRD,JOR,Jordan,,,,2002
+IBRD,KAZ,Kazakhstan,,,,2003
+IBRD,KEN,Kenya,,,,2009
+IBRD,KGZ,Kyrgyzstan,,,,2005
+IBRD,KNA,Saint Kitts and Nevis,,,,2002
+IBRD,LBN,Lebanon,,,,2002
+IBRD,LBR,Liberia,,,,2007
+IBRD,LCA,Saint Lucia,,,,2002
+IBRD,LKA,Sri Lanka,,,,2005
+IBRD,LTU,Lithuania,,,,2002
+IBRD,LVA,Latvia,,,,2002
+IBRD,MAR,Morocco,,,,2002
+IBRD,MDA,Moldova (the Republic of),,,,2014
+IBRD,MEX,Mexico,,,,2002
+IBRD,MKD,North Macedonia,,,,2003
+IBRD,MNE,Montenegro,,,,2003
+IBRD,MNG,Mongolia,,,,2019
+IBRD,MOZ,Mozambique,,,,2003
+IBRD,MUS,Mauritius,,,,2002
+IBRD,MWI,Malawi,,,,2005
+IBRD,NAM,Namibia,,,,2007
+IBRD,NGA,Nigeria,,,,2014
+IBRD,PAK,Pakistan,,,,2003
+IBRD,PAN,Panama,,,,2006
+IBRD,PER,Peru,,,,2002
+IBRD,PHL,Philippines (the),,,,2002
+IBRD,PNG,Papua New Guinea,,,,2002
+IBRD,POL,Poland,,,,2004
+IBRD,PRY,Paraguay,,,,2002
+IBRD,ROU,Romania,,,,2002
+IBRD,RUS,Russian Federation (the),,,,2002
+IBRD,SLV,El Salvador,,,,2002
+IBRD,SRB,Serbia,,,,2003
+IBRD,SUR,Suriname,,,,2019
+IBRD,SVK,Slovakia,,,,2002
+IBRD,SWZ,Eswatini,,,,2011
+IBRD,SYC,Seychelles,,,,2009
+IBRD,THA,Thailand,,,,2003
+IBRD,TKM,Turkmenistan,,,,2021
+IBRD,TLS,Timor-Leste,,,,2007
+IBRD,TTO,Trinidad and Tobago,,,,2003
+IBRD,TUN,Tunisia,,,,2002
+IBRD,TUR,Türkiye,,,,2002
+IBRD,TZA,"Tanzania, the United Republic of",,,,2007
+IBRD,UKR,Ukraine,,,,2002
+IBRD,URY,Uruguay,,,,2002
+IBRD,UZB,Uzbekistan,,,,2002
+IBRD,VCT,Saint Vincent and the Grenadines,,,,2002
+IBRD,VNM,Viet Nam,,,,2004
+IBRD,YEM,Yemen,,,,2006
+IBRD,ZAF,South Africa,,,,2002
+IDA,AFG,Afghanistan,,,,2002
+IDA,AGO,Angola,,,,2003
+IDA,ALB,Albania,,,,2002
+IDA,ARM,Armenia,,,,2002
+IDA,AZE,Azerbaijan,,,,2002
+IDA,BDI,Burundi,,,,2002
+IDA,BEN,Benin,,,,2002
+IDA,BFA,Burkina Faso,,,,2002
+IDA,BGD,Bangladesh,,,,2002
+IDA,BGR,Bulgaria,,,,2008
+IDA,BIH,Bosnia and Herzegovina,,,,2002
+IDA,BLZ,Belize,,,,2025
+IDA,BOL,Bolivia (Plurinational State of),,,,2002
+IDA,BRA,Brazil,,,,2009
+IDA,BTN,Bhutan,,,,2003
+IDA,CAF,Central African Republic (the),,,,2006
+IDA,CHN,China,,,,2005
+IDA,CIV,Côte d'Ivoire,,,,2002
+IDA,CMR,Cameroon,,,,2002
+IDA,COD,Congo (the Democratic Republic of the),,,,2002
+IDA,COG,Congo (the),,,,2002
+IDA,COL,Colombia,,,,2005
+IDA,COM,Comoros (the),,,,2004
+IDA,CPV,Cabo Verde,,,,2002
+IDA,DJI,Djibouti,,,,2002
+IDA,DMA,Dominica,,,,2002
+IDA,EGY,Egypt,,,,2008
+IDA,ERI,Eritrea,,,,2002
+IDA,ETH,Ethiopia,,,,2002
+IDA,FJI,Fiji,,,,2019
+IDA,FSM,Micronesia (Federated States of),,,,2014
+IDA,GEO,Georgia,,,,2002
+IDA,GHA,Ghana,,,,2003
+IDA,GIN,Guinea,,,,2002
+IDA,GMB,Gambia (the),,,,2002
+IDA,GNB,Guinea-Bissau,,,,2002
+IDA,GRD,Grenada,,,,2002
+IDA,GUY,Guyana,,,,2002
+IDA,HND,Honduras,,,,2002
+IDA,HTI,Haiti,,,,2005
+IDA,IDN,Indonesia,,,,2002
+IDA,IND,India,,,,2002
+IDA,IRQ,Iraq,,,,2005
+IDA,JOR,Jordan,,,,2016
+IDA,KAZ,Kazakhstan,,,,2007
+IDA,KEN,Kenya,,,,2002
+IDA,KGZ,Kyrgyzstan,,,,2003
+IDA,KHM,Cambodia,,,,2002
+IDA,KIR,Kiribati,,,,2011
+IDA,LAO,Lao People's Democratic Republic (the),,,,2002
+IDA,LBN,Lebanon,,,,2016
+IDA,LBR,Liberia,,,,2006
+IDA,LCA,Saint Lucia,,,,2002
+IDA,LKA,Sri Lanka,,,,2002
+IDA,LSO,Lesotho,,,,2003
+IDA,MDA,Moldova (the Republic of),,,,2002
+IDA,MDG,Madagascar,,,,2002
+IDA,MDV,Maldives,,,,2004
+IDA,MHL,Marshall Islands (the),,,,2013
+IDA,MKD,North Macedonia,,,,2002
+IDA,MLI,Mali,,,,2003
+IDA,MMR,Myanmar,,,,2012
+IDA,MNE,Montenegro,,,,2002
+IDA,MNG,Mongolia,,,,2002
+IDA,MOZ,Mozambique,,,,2002
+IDA,MRT,Mauritania,,,,2003
+IDA,MWI,Malawi,,,,2002
+IDA,NER,Niger (the),,,,2002
+IDA,NGA,Nigeria,,,,2002
+IDA,NIC,Nicaragua,,,,2002
+IDA,NPL,Nepal,,,,2002
+IDA,PAK,Pakistan,,,,2002
+IDA,PER,Peru,,,,2009
+IDA,PNG,Papua New Guinea,,,,2002
+IDA,ROU,Romania,,,,2007
+IDA,RWA,Rwanda,,,,2002
+IDA,SDN,Sudan (the),,,,2020
+IDA,SEN,Senegal,,,,2002
+IDA,SLB,Solomon Islands,,,,2007
+IDA,SLE,Sierra Leone,,,,2002
+IDA,SOM,Somalia,,,,2015
+IDA,SRB,Serbia,,,,2002
+IDA,SSD,South Sudan,,,,2008
+IDA,STP,Sao Tome and Principe,,,,2004
+IDA,SUR,Suriname,,,,2025
+IDA,SWZ,Eswatini,,,,2025
+IDA,SYR,Syrian Arab Republic (the),,,,2025
+IDA,TCD,Chad,,,,2002
+IDA,TGO,Togo,,,,2008
+IDA,TJK,Tajikistan,,,,2002
+IDA,TLS,Timor-Leste,,,,2003
+IDA,TON,Tonga,,,,2002
+IDA,TUR,Türkiye,,,,2010
+IDA,TUV,Tuvalu,,,,2011
+IDA,TZA,"Tanzania, the United Republic of",,,,2002
+IDA,UGA,Uganda,,,,2002
+IDA,UKR,Ukraine,,,,2022
+IDA,UZB,Uzbekistan,,,,2002
+IDA,VCT,Saint Vincent and the Grenadines,,,,2002
+IDA,VNM,Viet Nam,,,,2002
+IDA,VUT,Vanuatu,,,,2015
+IDA,WSM,Samoa,,,,2002
+IDA,XKX,Kosovo,,,,2003
+IDA,YEM,Yemen,,,,2002
+IDA,ZMB,Zambia,,,,2002
+IDA,ZWE,Zimbabwe,,,,2019
+AfDB,AGO,Angola,,,,2002
+AfDB,BDI,Burundi,,,,2004
+AfDB,BEN,Benin,,,,2002
+AfDB,BFA,Burkina Faso,,,,2002
+AfDB,BWA,Botswana,,,,2004
+AfDB,CAF,Central African Republic (the),,,,2006
+AfDB,CIV,Côte d'Ivoire,,,,2002
+AfDB,CMR,Cameroon,,,,2002
+AfDB,COD,Congo (the Democratic Republic of the),,,,2002
+AfDB,COG,Congo (the),,,,2003
+AfDB,COM,Comoros (the),,,,2009
+AfDB,CPV,Cabo Verde,,,,2002
+AfDB,DJI,Djibouti,,,,2002
+AfDB,DZA,Algeria,,,,2002
+AfDB,EGY,Egypt,,,,2002
+AfDB,ERI,Eritrea,,,,2003
+AfDB,ETH,Ethiopia,,,,2002
+AfDB,GAB,Gabon,,,,2002
+AfDB,GHA,Ghana,,,,2002
+AfDB,GIN,Guinea,,,,2002
+AfDB,GMB,Gambia (the),,,,2002
+AfDB,GNB,Guinea-Bissau,,,,2003
+AfDB,GNQ,Equatorial Guinea,,,,2008
+AfDB,KEN,Kenya,,,,2003
+AfDB,LBR,Liberia,,,,2003
+AfDB,LBY,Libya,,,,2013
+AfDB,LSO,Lesotho,,,,2002
+AfDB,MAR,Morocco,,,,2002
+AfDB,MDG,Madagascar,,,,2002
+AfDB,MLI,Mali,,,,2002
+AfDB,MOZ,Mozambique,,,,2002
+AfDB,MRT,Mauritania,,,,2002
+AfDB,MUS,Mauritius,,,,2002
+AfDB,MWI,Malawi,,,,2002
+AfDB,NAM,Namibia,,,,2002
+AfDB,NER,Niger (the),,,,2002
+AfDB,NGA,Nigeria,,,,2002
+AfDB,RWA,Rwanda,,,,2003
+AfDB,SDN,Sudan (the),,,,2003
+AfDB,SEN,Senegal,,,,2002
+AfDB,SLE,Sierra Leone,,,,2002
+AfDB,SOM,Somalia,,,,2005
+AfDB,SSD,South Sudan,,,,2012
+AfDB,STP,Sao Tome and Principe,,,,2002
+AfDB,SWZ,Eswatini,,,,2002
+AfDB,SYC,Seychelles,,,,2005
+AfDB,TCD,Chad,,,,2002
+AfDB,TGO,Togo,,,,2003
+AfDB,TUN,Tunisia,,,,2002
+AfDB,TZA,"Tanzania, the United Republic of",,,,2002
+AfDB,UGA,Uganda,,,,2002
+AfDB,ZAF,South Africa,,,,2003
+AfDB,ZMB,Zambia,,,,2003
+AfDB,ZWE,Zimbabwe,,,,2005
+AsDB,AFG,Afghanistan,,,,2002
+AsDB,ARM,Armenia,,,,2006
+AsDB,AZE,Azerbaijan,,,,2002
+AsDB,BGD,Bangladesh,,,,2002
+AsDB,BRN,Brunei Darussalam,,,,2008
+AsDB,BTN,Bhutan,,,,2003
+AsDB,CHN,China,,,,2002
+AsDB,COK,Cook Islands (the),,,,2005
+AsDB,FJI,Fiji,,,,2002
+AsDB,FSM,Micronesia (Federated States of),,,,2002
+AsDB,GEO,Georgia,,,,2008
+AsDB,IDN,Indonesia,,,,2002
+AsDB,IND,India,,,,2002
+AsDB,KAZ,Kazakhstan,,,,2003
+AsDB,KGZ,Kyrgyzstan,,,,2002
+AsDB,KHM,Cambodia,,,,2002
+AsDB,KIR,Kiribati,,,,2004
+AsDB,LAO,Lao People's Democratic Republic (the),,,,2002
+AsDB,LKA,Sri Lanka,,,,2002
+AsDB,MDV,Maldives,,,,2002
+AsDB,MHL,Marshall Islands (the),,,,2002
+AsDB,MMR,Myanmar,,,,2012
+AsDB,MNG,Mongolia,,,,2002
+AsDB,MYS,Malaysia,,,,2006
+AsDB,NIU,Niue,,,,2019
+AsDB,NPL,Nepal,,,,2002
+AsDB,NRU,Nauru,,,,2008
+AsDB,PAK,Pakistan,,,,2002
+AsDB,PHL,Philippines (the),,,,2002
+AsDB,PLW,Palau,,,,2007
+AsDB,PNG,Papua New Guinea,,,,2002
+AsDB,SLB,Solomon Islands,,,,2004
+AsDB,THA,Thailand,,,,2005
+AsDB,TJK,Tajikistan,,,,2002
+AsDB,TKM,Turkmenistan,,,,2007
+AsDB,TLS,Timor-Leste,,,,2002
+AsDB,TON,Tonga,,,,2002
+AsDB,TUR,Türkiye,,,,2025
+AsDB,TUV,Tuvalu,,,,2002
+AsDB,UZB,Uzbekistan,,,,2002
+AsDB,VNM,Viet Nam,,,,2002
+AsDB,VUT,Vanuatu,,,,2004
+AsDB,WSM,Samoa,,,,2003
+IDB,ARG,Argentina,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,BHS,Bahamas (the),,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2003
+IDB,BLZ,Belize,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,BOL,Bolivia (Plurinational State of),,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,BRA,Brazil,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,BRB,Barbados,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,CHL,Chile,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,COL,Colombia,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,CRI,Costa Rica,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,DOM,Dominican Republic (the),,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,ECU,Ecuador,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,GTM,Guatemala,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,GUY,Guyana,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,HND,Honduras,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,HTI,Haiti,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,JAM,Jamaica,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,MEX,Mexico,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,NIC,Nicaragua,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,PAN,Panama,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,PER,Peru,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,PRY,Paraguay,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,SLV,El Salvador,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,SUR,Suriname,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,TTO,Trinidad and Tobago,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,URY,Uruguay,,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+IDB,VEN,Venezuela (Bolivarian Republic of),,https://www.iadb.org/en/who-we-are/about-idb/operational-policies/eligible-borrowers,,2002
+EBRD,ALB,Albania,1991-12-18,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,ARE,United Arab Emirates,2021-09-23,https://web.archive.org/web/20220104215142/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,ARM,Armenia,1992-12-07,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,AUS,Australia,1991-03-30,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,AUT,Austria,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,AZE,Azerbaijan,1992-09-25,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,BEL,Belgium,1991-04-10,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,BEN,Benin,2024-04-10,https://web.archive.org/web/20250110011221/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2025
+EBRD,BGR,Bulgaria,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,BIH,Bosnia and Herzegovina,1996-06-17,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,BLR,Belarus,1992-06-10,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2003
+EBRD,CAN,Canada,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,CHE,Switzerland,1991-03-29,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,CHN,China,2016-01-15,https://web.archive.org/web/20170123084304/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,CYP,Cyprus,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2014
+EBRD,CZE,Czechia,1993-01-01,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,DEU,Germany,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,DNK,Denmark,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,DZA,Algeria,2021-10-19,https://web.archive.org/web/20220104215142/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,EGY,Egypt,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2009
+EBRD,ESP,Spain,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,EST,Estonia,1992-02-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,FIN,Finland,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,FRA,France,1990-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,GBR,United Kingdom,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,GEO,Georgia,1992-09-04,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,GRC,Greece,1991-03-29,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2015
+EBRD,HRV,Croatia,1993-04-15,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,HUN,Hungary,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,IND,India,2018-07-11,https://web.archive.org/web/20190304143051/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,IRL,Ireland,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,IRQ,Iraq,2023-11-14,https://web.archive.org/web/20240126153850/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,ISL,Iceland,1991-05-29,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,ISR,Israel,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,ITA,Italy,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,JOR,Jordan,2011-12-29,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2012
+EBRD,JPN,Japan,1991-04-02,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,KAZ,Kazakhstan,1992-07-27,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,KGZ,Kyrgyzstan,1992-06-05,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,KOR,"Korea, Republic of",1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,LBN,Lebanon,2017-07-17,https://web.archive.org/web/20180108023802/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2018
+EBRD,LBY,Libya,2019-07-16,https://web.archive.org/web/20200119193037/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,LIE,Liechtenstein,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,LTU,Lithuania,1992-03-05,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,LUX,Luxembourg,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,LVA,Latvia,1992-03-18,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,MAR,Morocco,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2012
+EBRD,MDA,Moldova (the Republic of),1992-05-05,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,MEX,Mexico,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,MKD,North Macedonia,1993-04-21,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,MLT,Malta,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,MNE,Montenegro,2006-06-03,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,MNG,Mongolia,2000-10-09,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2004
+EBRD,NLD,Netherlands,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,NOR,Norway,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,NZL,New Zealand,1991-08-19,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,POL,Poland,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,PRT,Portugal,1991-04-05,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,ROU,Romania,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,RUS,Russian Federation (the),1992-04-09,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,SMR,San Marino,2019-06-07,https://web.archive.org/web/20200119193037/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,SRB,Serbia,2001-01-19,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,SVK,Slovakia,1993-01-01,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,SVN,Slovenia,1992-12-23,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,SWE,Sweden,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,TJK,Tajikistan,1992-10-16,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2003
+EBRD,TKM,Turkmenistan,1992-06-01,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,TUN,Tunisia,2011-12-29,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2012
+EBRD,TUR,Türkiye,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2004
+EBRD,UKR,Ukraine,1992-04-13,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,USA,United States of America,1991-03-28,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",
+EBRD,UZB,Uzbekistan,1992-04-30,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2002
+EBRD,XKX,Kosovo,2012-12-17,https://web.archive.org/web/20141208025702/ebrd.com/shareholders-and-board-of-governors.html,"Read directly from EBRD's own ""Date joined"" column.",2005
+EIB,AGO,Angola,,,,2007
+EIB,ALB,Albania,,,,2003
+EIB,AND,Andorra,,,,2026
+EIB,ARG,Argentina,,,,2009
+EIB,ARM,Armenia,,,,2010
+EIB,AUT,Austria,,,,2002
+EIB,AZE,Azerbaijan,,,,2014
+EIB,BDI,Burundi,,,,2014
+EIB,BEL,Belgium,,,,2002
+EIB,BEN,Benin,,,,2007
+EIB,BFA,Burkina Faso,,,,2002
+EIB,BGD,Bangladesh,,,,2013
+EIB,BGR,Bulgaria,,,,2002
+EIB,BIH,Bosnia and Herzegovina,,,,2002
+EIB,BLR,Belarus,,,,2018
+EIB,BLZ,Belize,,,,2006
+EIB,BOL,Bolivia (Plurinational State of),,,,2014
+EIB,BRA,Brazil,,,,2002
+EIB,BRB,Barbados,,,,2006
+EIB,BTN,Bhutan,,,,2024
+EIB,BWA,Botswana,,,,2003
+EIB,CHE,Switzerland,,,,2002
+EIB,CHL,Chile,,,,2011
+EIB,CHN,China,,,,2005
+EIB,CIV,Côte d'Ivoire,,,,2010
+EIB,CMR,Cameroon,,,,2002
+EIB,COD,Congo (the Democratic Republic of the),,,,2008
+EIB,COG,Congo (the),,,,2006
+EIB,COL,Colombia,,,,2006
+EIB,CPV,Cabo Verde,,,,2002
+EIB,CRI,Costa Rica,,,,2012
+EIB,CYP,Cyprus,,,,2002
+EIB,CZE,Czechia,,,,2002
+EIB,DEU,Germany,,,,2002
+EIB,DJI,Djibouti,,,,2009
+EIB,DMA,Dominica,,,,2010
+EIB,DNK,Denmark,,,,2002
+EIB,DOM,Dominican Republic (the),,,,2004
+EIB,DZA,Algeria,,,,2002
+EIB,ECU,Ecuador,,,,2012
+EIB,EGY,Egypt,,,,2002
+EIB,ESP,Spain,,,,2002
+EIB,EST,Estonia,,,,2002
+EIB,ETH,Ethiopia,,,,2002
+EIB,FIN,Finland,,,,2002
+EIB,FJI,Fiji,,,,2004
+EIB,FRA,France,,,,2002
+EIB,FSM,Micronesia (Federated States of),,,,2018
+EIB,GAB,Gabon,,,,2002
+EIB,GBR,United Kingdom of Great Britain and Northern Ireland (the),,,,2002
+EIB,GEO,Georgia,,,,2010
+EIB,GHA,Ghana,,,,2005
+EIB,GIN,Guinea,,,,2003
+EIB,GMB,Gambia (the),,,,2018
+EIB,GNB,Guinea-Bissau,,,,2024
+EIB,GRC,Greece,,,,2002
+EIB,GRD,Grenada,,,,2005
+EIB,GRL,Greenland,,,,2024
+EIB,GUY,Guyana,,,,2024
+EIB,HND,Honduras,,,,2006
+EIB,HRV,Croatia,,,,2002
+EIB,HTI,Haiti,,,,2011
+EIB,HUN,Hungary,,,,2002
+EIB,IDN,Indonesia,,,,2005
+EIB,IND,India,,,,2003
+EIB,IRL,Ireland,,,,2002
+EIB,ISL,Iceland,,,,2003
+EIB,ISR,Israel,,,,2006
+EIB,ITA,Italy,,,,2002
+EIB,JAM,Jamaica,,,,2002
+EIB,JOR,Jordan,,,,2003
+EIB,KAZ,Kazakhstan,,,,2013
+EIB,KEN,Kenya,,,,2003
+EIB,KGZ,Kyrgyzstan,,,,2014
+EIB,KHM,Cambodia,,,,2018
+EIB,KNA,Saint Kitts and Nevis,,,,2010
+EIB,LAO,Lao People's Democratic Republic (the),,,,2005
+EIB,LBN,Lebanon,,,,2002
+EIB,LBR,Liberia,,,,2010
+EIB,LCA,Saint Lucia,,,,2009
+EIB,LKA,Sri Lanka,,,,2002
+EIB,LSO,Lesotho,,,,2007
+EIB,LTU,Lithuania,,,,2003
+EIB,LUX,Luxembourg,,,,2002
+EIB,LVA,Latvia,,,,2002
+EIB,MAR,Morocco,,,,2002
+EIB,MDA,Moldova (the Republic of),,,,2007
+EIB,MDG,Madagascar,,,,2003
+EIB,MDV,Maldives,,,,2006
+EIB,MEX,Mexico,,,,2004
+EIB,MKD,North Macedonia,,,,2003
+EIB,MLI,Mali,,,,2013
+EIB,MLT,Malta,,,,2005
+EIB,MNE,Montenegro,,,,2004
+EIB,MNG,Mongolia,,,,2014
+EIB,MOZ,Mozambique,,,,2002
+EIB,MRT,Mauritania,,,,2002
+EIB,MUS,Mauritius,,,,2002
+EIB,MWI,Malawi,,,,2003
+EIB,MYS,Malaysia,,,,2026
+EIB,NAM,Namibia,,,,2006
+EIB,NCL,New Caledonia,,,,2007
+EIB,NER,Niger (the),,,,2003
+EIB,NGA,Nigeria,,,,2004
+EIB,NIC,Nicaragua,,,,2009
+EIB,NLD,Netherlands (Kingdom of the),,,,2002
+EIB,NOR,Norway,,,,2003
+EIB,NPL,Nepal,,,,2013
+EIB,PAK,Pakistan,,,,2003
+EIB,PAN,Panama,,,,2004
+EIB,PER,Peru,,,,2007
+EIB,PHL,Philippines (the),,,,2004
+EIB,PNG,Papua New Guinea,,,,2015
+EIB,POL,Poland,,,,2002
+EIB,PRT,Portugal,,,,2002
+EIB,PRY,Paraguay,,,,2008
+EIB,PSE,"Palestine, State of",,,,2005
+EIB,PYF,French Polynesia,,,,2007
+EIB,ROU,Romania,,,,2002
+EIB,RUS,Russian Federation (the),,,,2003
+EIB,RWA,Rwanda,,,,2006
+EIB,SEN,Senegal,,,,2002
+EIB,SLB,Solomon Islands,,,,2006
+EIB,SLV,El Salvador,,,,2021
+EIB,SOM,Somalia,,,,2020
+EIB,SRB,Serbia,,,,2002
+EIB,STP,Sao Tome and Principe,,,,2016
+EIB,SVK,Slovakia,,,,2002
+EIB,SVN,Slovenia,,,,2002
+EIB,SWE,Sweden,,,,2002
+EIB,SWZ,Eswatini,,,,2003
+EIB,SXM,Sint Maarten (Dutch part),,,,2015
+EIB,SYC,Seychelles,,,,2011
+EIB,SYR,Syrian Arab Republic (the),,,,2002
+EIB,TCD,Chad,,,,2003
+EIB,TGO,Togo,,,,2009
+EIB,TJK,Tajikistan,,,,2011
+EIB,TLS,Timor-Leste,,,,2026
+EIB,TTO,Trinidad and Tobago,,,,2002
+EIB,TUN,Tunisia,,,,2002
+EIB,TUR,Türkiye,,,,2002
+EIB,TUV,Tuvalu,,,,2004
+EIB,TZA,"Tanzania, the United Republic of",,,,2003
+EIB,UGA,Uganda,,,,2002
+EIB,UKR,Ukraine,,,,2007
+EIB,URY,Uruguay,,,,2007
+EIB,UZB,Uzbekistan,,,,2018
+EIB,VCT,Saint Vincent and the Grenadines,,,,2004
+EIB,VNM,Viet Nam,,,,2005
+EIB,VUT,Vanuatu,,,,2009
+EIB,WSM,Samoa,,,,2002
+EIB,XKX,Kosovo,,,,2007
+EIB,ZAF,South Africa,,,,2002
+EIB,ZMB,Zambia,,,,2002
+EIB,ZWE,Zimbabwe,,,,2021
+IsDB,AFG,Afghanistan,1976-10-20,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2004
+IsDB,ALB,Albania,1993-08-21,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,ARE,United Arab Emirates (the),1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,AZE,Azerbaijan,1992-07-04,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,BEN,Benin,1984-03-03,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,BFA,Burkina Faso,1978-03-15,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,BGD,Bangladesh,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,BHR,Bahrain,1974-10-21,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,BRN,Brunei Darussalam,1986-04-03,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,BWA,Botswana,,,,2014
+IsDB,CIV,Côte d'Ivoire,2002-07-02,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,CMR,Cameroon,1977-03-28,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,COM,Comoros (the),1980-03-11,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2014
+IsDB,DJI,Djibouti,1980-03-11,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,DZA,Algeria,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,EGY,Egypt,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2006
+IsDB,ETH,Ethiopia,,,,2010
+IsDB,GAB,Gabon,1981-03-03,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,GBR,United Kingdom of Great Britain and Northern Ireland (the),,,,2019
+IsDB,GHA,Ghana,,,,2012
+IsDB,GIN,Guinea,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,GMB,Gambia (the),1980-03-11,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,GNB,Guinea-Bissau,1978-11-16,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2020
+IsDB,GUY,Guyana,2016-05-19,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2018
+IsDB,IDN,Indonesia,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,IRN,Iran (Islamic Republic of),1989-02-22,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,IRQ,Iraq,1978-09-23,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2021
+IsDB,JOR,Jordan,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,KAZ,Kazakhstan,1995-11-30,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,KEN,Kenya,,,,2009
+IsDB,KGZ,Kyrgyzstan,1993-11-03,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2007
+IsDB,KWT,Kuwait,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2008
+IsDB,LBN,Lebanon,1977-03-28,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,LBY,Libya,1974-08-24,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,LKA,Sri Lanka,,,,2009
+IsDB,MAR,Morocco,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,MDV,Maldives,1980-03-11,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,MLI,Mali,1978-03-15,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,MOZ,Mozambique,1995-11-30,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,MRT,Mauritania,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,MWI,Malawi,,,,2011
+IsDB,MYS,Malaysia,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,NER,Niger (the),1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,NGA,Nigeria,2005-06-08,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2006
+IsDB,OMN,Oman,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,PAK,Pakistan,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,PSE,"Palestine, State of",1977-06-23,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,QAT,Qatar,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2008
+IsDB,RWA,Rwanda,,,,2011
+IsDB,SAU,Saudi Arabia,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,SDN,Sudan (the),1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,SEN,Senegal,1976-11-20,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,SLE,Sierra Leone,1982-05-24,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,SOM,Federal Republic of Somalia,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",
+IsDB,SUR,Suriname,1987-12-07,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,SYC,Seychelles,,,,2008
+IsDB,SYR,Syrian Arab Republic (the),1975-09-09,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,TCD,Chad,1977-03-26,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,TGO,Togo,1998-11-18,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,TJK,Tajikistan,1996-11-27,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,TKM,Turkmenistan,1994-11-15,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,TUN,Tunisia,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2002
+IsDB,TUR,Türkiye,1974-08-12,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2004
+IsDB,TZA,"Tanzania, the United Republic of",,,,2021
+IsDB,UGA,Uganda,1977-03-29,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2007
+IsDB,USA,United States of America (the),,,,2013
+IsDB,UZB,Uzbekistan,2003-08-27,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2004
+IsDB,XKX,Kosovo,,,,2013
+IsDB,YEM,Yemen,1975-07-28,https://web.archive.org/web/20240217235730id_/https://www.isdb.org/data/defs/member_countries.json,"Read directly from IsDB's own member_countries.json (""joined"" field).",2003
+IsDB,ZMB,Zambia,,,,2011
+IsDB,ZWE,Zimbabwe,,,,2014
+CAF,ARG,Argentina,,,,2010
+CAF,BOL,Bolivia (Plurinational State of),,,,2007
+CAF,BRA,Brazil,,,,2004
+CAF,BRB,Barbados,,,,2015
+CAF,CHL,Chile,,,,2015
+CAF,COL,Colombia,,,,2007
+CAF,CRI,Costa Rica,,,,2009
+CAF,DOM,Dominican Republic (the),,,,2010
+CAF,ECU,Ecuador,,,,2007
+CAF,ESP,Spain,,,,2014
+CAF,MEX,Mexico,,,,2012
+CAF,PAN,Panama,,,,2010
+CAF,PER,Peru,,,,2006
+CAF,PRT,Portugal,,,,2015
+CAF,PRY,Paraguay,,,,2014
+CAF,SLV,El Salvador,,,,2022
+CAF,TTO,Trinidad and Tobago,,,,2017
+CAF,URY,Uruguay,,,,2014
+CAF,VEN,Venezuela (Bolivarian Republic of),,,,2011
+CDB,AIA,Anguilla,,,,2013
+CDB,ATG,Antigua and Barbuda,,,,2013
+CDB,BHS,Bahamas (the),,,,2014
+CDB,BLZ,Belize,,,,2012
+CDB,BRB,Barbados,,,,2013
+CDB,DMA,Dominica,,,,2012
+CDB,GRD,Grenada,,,,2011
+CDB,GUY,Guyana,,,,2013
+CDB,HTI,Haiti,,,,2015
+CDB,JAM,Jamaica,,,,2017
+CDB,KNA,Saint Kitts and Nevis,,,,2015
+CDB,LCA,Saint Lucia,,,,2011
+CDB,MSR,Montserrat,,,,2017
+CDB,SUR,Suriname,,,,2014
+CDB,VCT,Saint Vincent and the Grenadines,,,,2011
+CDB,VGB,Virgin Islands (British),,,,2007
+AIIB,AFG,Afghanistan,2017-10-13,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2017.",
+AIIB,ARE,United Arab Emirates (the),2016-01-15,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,ARG,Argentina,2021-03-30,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2021.",2023
+AIIB,ARM,Armenia,2025,https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html,,
+AIIB,AUS,Australia,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,AUT,Austria,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,AZE,Azerbaijan,2016-06-24,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016.",2016
+AIIB,BEL,Belgium,2019-07-10,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,BEN,Benin,2020-05-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",2025
+AIIB,BGD,Bangladesh,2016-03-22,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2016
+AIIB,BHR,Bahrain,2018-08-24,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",
+AIIB,BLR,Belarus,2019-01-17,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,BRA,Brazil,2022-11-02,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2022
+AIIB,BRN,Brunei Darussalam,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,CAN,Canada,2018-03-19,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,CHE,Switzerland,2016-04-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,CHL,Chile,2021-07-02,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,CHN,China,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2017
+AIIB,CIV,Côte d'Ivoire,2020-02-26,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2019 (Approved for AIIB membership April 2019 (aiib.org press release, ""AIIB Approves Membership of Cote dIvoire, Guinea, Tunisia, and Uruguay"").).",2022
+AIIB,COK,Cook Islands (the),2020-06-01,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2017 (Approved for AIIB membership December 2017 (aiib.org press release, ""AIIB Approves Membership of Cook Islands, Vanuatu, Belarus and Ecuador"").).",2020
+AIIB,CYP,Cyprus,2018-06-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,DEU,Germany,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,DNK,Denmark,2016-01-15,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,DZA,Algeria,2019-12-27,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2020.",
+AIIB,ECU,Ecuador,2019-11-01,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2017 (Approved for AIIB membership December 2017 (aiib.org press release, ""AIIB Approves Membership of Cook Islands, Vanuatu, Belarus and Ecuador"").).",2022
+AIIB,EGY,Egypt,2016-08-04,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2017
+AIIB,ESP,Spain,2017-12-15,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,ETH,Ethiopia,2017-05-13,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,FIN,Finland,2016-01-07,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,FJI,Fiji,2017-12-11,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",2020
+AIIB,FRA,France,2016-06-16,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,GBR,United Kingdom of Great Britain and Northern Ireland (the),2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,GEO,Georgia,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2017
+AIIB,GHA,Ghana,2020-02-21,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,GIN,Guinea,2019-07-12,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,GRC,Greece,2019-08-20,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,HKG,Hong Kong,2017-06-07,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",2023
+AIIB,HRV,Croatia,2021-12-17,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,HUN,Hungary,2017-06-16,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",2021
+AIIB,IDN,Indonesia,2016-01-14,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2016
+AIIB,IND,India,2016-01-11,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2017
+AIIB,IRL,Ireland,2017-10-23,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,IRN,Iran (Islamic Republic of),2017-01-16,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,IRQ,Iraq,2022-08-04,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,ISL,Iceland,2016-03-04,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,ISR,Israel,2016-01-15,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,ITA,Italy,2016-07-13,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,JOR,Jordan,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2021
+AIIB,KAZ,Kazakhstan,2016-04-18,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,KGZ,Kyrgyzstan,2016-04-11,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2020
+AIIB,KHM,Cambodia,2016-05-17,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,KOR,Korea (the Republic of),2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,LAO,Lao People's Democratic Republic (the),2016-01-11,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,LBR,Liberia,2021-01-04,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,LKA,Sri Lanka,2016-06-22,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,LUX,Luxembourg,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,MAR,Morocco,2022-05-04,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2018 (Approved for AIIB membership December 2018 (aiib.org press release, ""AIIB Approves Membership of Algeria, Ghana, Libya, Morocco, Serbia, Togo"").).",2025
+AIIB,MDG,Madagascar,2018-06-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",
+AIIB,MDV,Maldives,2016-01-04,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2020
+AIIB,MLT,Malta,2016-01-07,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,MMR,Myanmar,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2016
+AIIB,MNG,Mongolia,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2020
+AIIB,MYS,Malaysia,2017-03-27,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2026
+AIIB,NLD,Netherlands (Kingdom of the),2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,NOR,Norway,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,NPL,Nepal,2016-01-13,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,NZL,New Zealand,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,OMN,Oman,2016-06-21,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2016
+AIIB,PAK,Pakistan,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2016
+AIIB,PER,Peru,2022-01-14,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,PHL,Philippines (the),2016-12-28,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2017
+AIIB,PNG,Papua New Guinea,2024-05-13,https://info.gov.pg/papua-new-guinea-joins-asian-infrastructure-investment-bank/,"Approved as a prospective member May 2018 (aiib.org press release) but membership wasn't ratified for years -- a Jakarta Post article confirms PNG was still ""hoping to finalize membership"" as of October 2023. Effective date is the flag-raising ceremony in Beijing, 13 May 2024.",
+AIIB,POL,Poland,2016-06-15,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,PRT,Portugal,2017-02-08,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,QAT,Qatar,2016-06-24,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,ROU,Romania,2018-12-28,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",2023
+AIIB,RUS,Russian Federation (the),2015-12-28,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,RWA,Rwanda,2020-04-16,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Previously undated.",2021
+AIIB,SAU,Saudi Arabia,2016-02-19,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2025
+AIIB,SDN,Sudan (the),2018-09-13,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,SGP,Singapore,2015-12-25,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Replaced an approval/opening-era date: previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,SLV,El Salvador,2023,https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html,"Approved 26 Sep 2023 at the Bank's eighth Annual Meeting in Sharm El Sheikh, Egypt (aiib.org, ""AIIB Grows to 109 Members Globally"").",
+AIIB,SRB,Serbia,2019-08-15,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,SWE,Sweden,2016-06-23,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,TGO,Togo,2018,https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html,"Approved for AIIB membership December 2018 (aiib.org press release, ""AIIB Approves Membership of Algeria, Ghana, Libya, Morocco, Serbia, Togo"").",2026
+AIIB,THA,Thailand,2016-06-20,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2024
+AIIB,TJK,Tajikistan,2016-01-16,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2016
+AIIB,TLS,Timor-Leste,2017-11-22,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,TON,Tonga,2021-01-05,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,TUN,Tunisia,2022-04-29,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,TUR,Türkiye,2016-01-15,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2018
+AIIB,URY,Uruguay,2020-04-28,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,UZB,Uzbekistan,2016-11-30,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2019
+AIIB,VNM,Viet Nam,2016-04-11,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Same year as the previous value; previous value 2016 (One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).).",2020
+AIIB,VUT,Vanuatu,2018-03-06,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,WSM,Samoa,2018-04-03,https://www.aiib.org/en/news-events/annual-report/2022/common/pdf/2022-AIIB-Annual-Report_final-proof_single-page.pdf,"Date is AIIB's own 'Membership Date' -- the date membership took effect -- from the 2022 Annual Report, Annex 1 (Board of Governors Voting Power, as of Dec. 31, 2022). Row added: this member had no accession_dates.csv row before.",
+AIIB,ZAF,South Africa,2016,https://www.aiib.org/en/about-aiib/governance/members-of-bank/index.html,"One of 57 founding members; Articles of Agreement signed 29 Jun 2015, bank opened 16 Jan 2016 (aiib.org/en/about-aiib/history).",2026
+BADEA,AGO,Angola,1976,https://www.badea.org/who-we-serve/,,2020
+BADEA,BDI,Burundi,1973,https://www.badea.org/who-we-serve/,,2008
+BADEA,BEN,Benin,1973,https://www.badea.org/who-we-serve/,,2003
+BADEA,BFA,Burkina Faso,1973,https://www.badea.org/who-we-serve/,,2009
+BADEA,BWA,Botswana,1973,https://www.badea.org/who-we-serve/,,2020
+BADEA,CAF,Central African Republic (the),1973,https://www.badea.org/who-we-serve/,,2006
+BADEA,CIV,Côte d'Ivoire,1973,https://www.badea.org/who-we-serve/,,2004
+BADEA,CMR,Cameroon,1973,https://www.badea.org/who-we-serve/,,2009
+BADEA,COD,Congo (the Democratic Republic of the),1973,https://www.badea.org/who-we-serve/,,2004
+BADEA,COG,Congo (the),1973,https://www.badea.org/who-we-serve/,,2009
+BADEA,CPV,Cabo Verde,1976,https://www.badea.org/who-we-serve/,,2013
+BADEA,ERI,Eritrea,1993,https://www.badea.org/who-we-serve/,,2006
+BADEA,ETH,Ethiopia,1973,https://www.badea.org/who-we-serve/,,2004
+BADEA,GAB,Gabon,1973,https://www.badea.org/who-we-serve/,,2007
+BADEA,GHA,Ghana,1973,https://www.badea.org/who-we-serve/,,2008
+BADEA,GIN,Guinea,1973,https://www.badea.org/who-we-serve/,,2008
+BADEA,GMB,Gambia (the),1974,https://www.badea.org/who-we-serve/,,2002
+BADEA,GNB,Guinea-Bissau,1973,https://www.badea.org/who-we-serve/,,2012
+BADEA,GNQ,Equatorial Guinea,1973,https://www.badea.org/who-we-serve/,,2003
+BADEA,KEN,Kenya,1973,https://www.badea.org/who-we-serve/,,2004
+BADEA,LBR,Liberia,1973,https://www.badea.org/who-we-serve/,,2006
+BADEA,LSO,Lesotho,1973,https://www.badea.org/who-we-serve/,,2009
+BADEA,MDG,Madagascar,1973,https://www.badea.org/who-we-serve/,,2007
+BADEA,MLI,Mali,1973,https://www.badea.org/who-we-serve/,,2011
+BADEA,MOZ,Mozambique,1975,https://www.badea.org/who-we-serve/,,2002
+BADEA,MUS,Mauritius,1973,https://www.badea.org/who-we-serve/,,2004
+BADEA,MWI,Malawi,1973,https://www.badea.org/who-we-serve/,,2013
+BADEA,NAM,Namibia,1990,https://www.badea.org/who-we-serve/,,2006
+BADEA,NER,Niger (the),1973,https://www.badea.org/who-we-serve/,,2018
+BADEA,NGA,Nigeria,1973,https://www.badea.org/who-we-serve/,,2006
+BADEA,RWA,Rwanda,1973,https://www.badea.org/who-we-serve/,,2012
+BADEA,SEN,Senegal,1973,https://www.badea.org/who-we-serve/,,2005
+BADEA,SLE,Sierra Leone,1973,https://www.badea.org/who-we-serve/,,2003
+BADEA,SSD,South Sudan,2011,https://www.badea.org/who-we-serve/,,2021
+BADEA,STP,Sao Tome and Principe,1975,https://www.badea.org/who-we-serve/,,2003
+BADEA,SWZ,Eswatini,1973,https://www.badea.org/who-we-serve/,,2002
+BADEA,SYC,Seychelles,1973,https://www.badea.org/who-we-serve/,,2010
+BADEA,TCD,Chad,1973,https://www.badea.org/who-we-serve/,,2020
+BADEA,TGO,Togo,1973,https://www.badea.org/who-we-serve/,,2006
+BADEA,TZA,"Tanzania, the United Republic of",1973,https://www.badea.org/who-we-serve/,,2002
+BADEA,UGA,Uganda,1973,https://www.badea.org/who-we-serve/,,2002
+BADEA,ZAF,South Africa,1994,https://www.badea.org/who-we-serve/,,
+BADEA,ZMB,Zambia,1973,https://www.badea.org/who-we-serve/,,2013
+BADEA,ZWE,Zimbabwe,1980,https://www.badea.org/who-we-serve/,,2014
+NDB,ARE,United Arab Emirates (the),2021,https://www.ndb.int/about-ndb/members/,,
+NDB,BGD,Bangladesh,2021,https://www.ndb.int/about-ndb/members/,,2023
+NDB,BRA,Brazil,2015,https://www.ndb.int/about-ndb/members/,,2018
+NDB,CHN,China,2015,https://www.ndb.int/about-ndb/members/,,2016
+NDB,DZA,Algeria,2025,https://www.ndb.int/about-ndb/members/,,
+NDB,EGY,Egypt,2023,https://www.ndb.int/about-ndb/members/,,
+NDB,IND,India,2015,https://www.ndb.int/about-ndb/members/,,2016
+NDB,RUS,Russian Federation (the),2015,https://www.ndb.int/about-ndb/members/,,2016
+NDB,UZB,Uzbekistan,2026,https://www.ndb.int/about-ndb/members/,,
+NDB,ZAF,South Africa,2015,https://www.ndb.int/about-ndb/members/,,2016
+CABEI,ARG,Argentina,1995,https://www.bcie.org/paises/ar,,2015
+CABEI,BLZ,Belize,2006,https://www.bcie.org/paises/bz,,2009
+CABEI,COL,Colombia,1997,https://www.bcie.org/paises/co,,2005
+CABEI,CRI,Costa Rica,1963,https://www.bcie.org/paises/cr,,2002
+CABEI,CUB,Cuba,2018,https://www.bcie.org/paises/cu,,2022
+CABEI,DOM,Dominican Republic (the),2007,https://www.bcie.org/paises/do,,2007
+CABEI,GTM,Guatemala,1960,https://www.bcie.org/paises/gt,,2002
+CABEI,HND,Honduras,1960,https://www.bcie.org/paises/hn,,2002
+CABEI,MEX,Mexico,1992,https://www.bcie.org/paises/mx,Non-regional (does not lend),2016
+CABEI,NIC,Nicaragua,1960,https://www.bcie.org/paises/ni,,2002
+CABEI,PAN,Panama,2007,https://www.bcie.org/paises/pa,,2005
+CABEI,SLV,El Salvador,1960,https://www.bcie.org/paises/sv,,2002

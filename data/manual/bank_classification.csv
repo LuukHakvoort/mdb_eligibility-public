@@ -1,0 +1,15 @@
+bank,ray_governance_type,classification_source,note
+IBRD,creditor-led,"Ray (2021)","Excerpt says 'The World Bank institutions ... are creditor-led banks' (plural) -- applied to both IBRD and IDA, an explicit textual reading, not inferred from the bank name alone."
+IDA,creditor-led,"Ray (2021)","Excerpt says 'The World Bank institutions ... are creditor-led banks' (plural) -- applied to both IBRD and IDA, an explicit textual reading, not inferred from the bank name alone."
+EBRD,creditor-led,"Ray (2021)",
+IDB,creditor-led,"Ray (2021)",
+AsDB,creditor-led,"Ray (2021)","Excerpt's own acronym is 'ADB'; this project's canonical code for the Asian Development Bank is AsDB."
+AfDB,core borrower-led,"Ray (2021)",
+IsDB,core borrower-led,"Ray (2021)",
+AIIB,core borrower-led,"Ray (2021)",
+EIB,core borrower-led,"Ray (2021)",
+CDB,core borrower-led,"Ray (2021)","Excerpt's own acronym is 'CDB', read as Caribbean Development Bank (this project's canonical CDB) alongside other small regional borrower-led banks in the same list (EBID, TDB, EDB) -- a confident but not independently re-verified reading; check against the full paper if available."
+CABEI,mutual aid-oriented,"Ray (2021)",
+CAF,mutual aid-oriented,"Ray (2021)",
+NDB,core borrower-led,"user instruction, 2026-09-30","Not named in the Ray (2021) excerpt provided -- classified directly by the user, not inferred by Claude from the bank's name or any other source."
+BADEA,creditor-led,"user instruction, 2026-09-30","Not named in the Ray (2021) excerpt provided -- classified directly by the user (who said 'core creditor-led'; recorded here as 'creditor-led' to match the paper's own three category labels), not inferred by Claude from the bank's name or any other source."

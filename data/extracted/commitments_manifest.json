@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-10-04T14:04:39+00:00",
+  "definition": "a dyad-year with at least one operation (n_operations), from the scraper's own dyad_country_year.csv",
+  "scraper_commit": "a5a86b0",
+  "banks": 14,
+  "dyad_years": 9197,
+  "unallocated_bank_years": 176,
+  "sources": {
+    "output/dyad_country_year.csv": "6065a4ac2e402b6d587b7f8976449f66a35f1c1d1b62ed3797c034491cb3fbc0",
+    "output/dyad_unallocated_year.csv": "138030909c0b42d4d85331d6b92831fd3246cd7dbb8a03a4023688ae97946b8e",
+    "mdbs_scraper/banks.json": "6b934f80d58e066d8a2886321b8bfdeb5931ac6bc717eeb3911acee77d0ebd0a"
+  }
+}

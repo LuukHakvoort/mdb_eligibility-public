@@ -1,0 +1,819 @@
+iso3,year,computed_voting_pct,published_voting_pct,abs_error_pp,share_votes_assumed,founding_member,note
+AFG,2017,0.274436,,,866,0,computed only; no published table this year to check against
+AFG,2018,0.250581,,,866,0,computed only; no published table this year to check against
+AFG,2019,0.234272,,,866,0,computed only; no published table this year to check against
+AFG,2020,0.220886,,,866,0,computed only; no published table this year to check against
+AFG,2021,0.212606,,,866,0,computed only; no published table this year to check against
+AFG,2022,0.206487,0.1765,0.03,866,0,
+AFG,2023,0.202275,0.1724,0.0299,866,0,
+AFG,2024,0.1984,0.1685,0.0299,866,0,
+AFG,2025,0.188712,,,866,0,computed only; no published table this year to check against
+ARE,2016,1.360182,,,11857,0,computed only; no published table this year to check against
+ARE,2017,1.260768,,,11857,0,computed only; no published table this year to check against
+ARE,2018,1.22363,,,11857,0,computed only; no published table this year to check against
+ARE,2019,1.203628,,,11857,0,computed only; no published table this year to check against
+ARE,2020,1.189364,,,11857,0,computed only; no published table this year to check against
+ARE,2021,1.180248,,,11857,0,computed only; no published table this year to check against
+ARE,2022,1.171719,1.2348,0.0631,11857,0,
+ARE,2023,1.166328,1.2302,0.0639,11857,0,
+ARE,2024,1.162352,1.2263,0.0639,11857,0,
+ARE,2025,1.146987,,,11857,0,computed only; no published table this year to check against
+ARG,2021,0.140766,,,50,0,computed only; no published table this year to check against
+ARG,2022,0.134826,0.1348,0.0,50,0,
+ARG,2023,0.130701,0.1307,0.0,50,0,
+ARG,2024,0.126834,0.1269,0.0001,50,0,
+ARG,2025,0.117567,,,50,0,computed only; no published table this year to check against
+ARM,2025,0.145816,,,374,0,computed only; no published table this year to check against
+AUS,2016,3.783921,,,36912,1,computed only; no published table this year to check against
+AUS,2017,3.563047,,,36912,1,computed only; no published table this year to check against
+AUS,2018,3.494905,,,36912,1,computed only; no published table this year to check against
+AUS,2019,3.466282,,,36912,1,computed only; no published table this year to check against
+AUS,2020,3.449968,,,36912,1,computed only; no published table this year to check against
+AUS,2021,3.438902,,,36912,1,computed only; no published table this year to check against
+AUS,2022,3.424747,3.4561,0.0314,36912,1,
+AUS,2023,3.416603,3.4504,0.0338,36912,1,
+AUS,2024,3.412392,3.4465,0.0341,36912,1,
+AUS,2025,3.383775,,,36912,1,computed only; no published table this year to check against
+AUT,2016,0.769812,,,5008,1,computed only; no published table this year to check against
+AUT,2017,0.699983,,,5008,1,computed only; no published table this year to check against
+AUT,2018,0.670397,,,5008,1,computed only; no published table this year to check against
+AUT,2019,0.652495,,,5008,1,computed only; no published table this year to check against
+AUT,2020,0.63873,,,5008,1,computed only; no published table this year to check against
+AUT,2021,0.630089,,,5008,1,computed only; no published table this year to check against
+AUT,2022,0.622931,0.6276,0.0047,5008,1,
+AUT,2023,0.61821,0.6232,0.005,5008,1,
+AUT,2024,0.614292,0.6194,0.0051,5008,1,
+AUT,2025,0.602154,,,5008,1,computed only; no published table this year to check against
+AZE,2016,0.536744,,,2541,1,computed only; no published table this year to check against
+AZE,2017,0.478595,,,2541,1,computed only; no published table this year to check against
+AZE,2018,0.45199,,,2541,1,computed only; no published table this year to check against
+AZE,2019,0.434917,,,2541,1,computed only; no published table this year to check against
+AZE,2020,0.421349,,,2541,1,computed only; no published table this year to check against
+AZE,2021,0.412896,,,2541,1,computed only; no published table this year to check against
+AZE,2022,0.406278,0.4089,0.0026,2541,1,
+AZE,2023,0.401822,0.4046,0.0028,2541,1,
+AZE,2024,0.397926,0.4008,0.0029,2541,1,
+AZE,2025,0.387063,,,2541,1,computed only; no published table this year to check against
+BEL,2019,0.408899,,,2846,0,computed only; no published table this year to check against
+BEL,2020,0.395355,,,2846,0,computed only; no published table this year to check against
+BEL,2021,0.386924,,,2846,0,computed only; no published table this year to check against
+BEL,2022,0.380371,0.3827,0.0023,2846,0,
+BEL,2023,0.375947,0.3785,0.0026,2846,0,
+BEL,2024,0.372054,0.3747,0.0026,2846,0,
+BEL,2025,0.361342,,,2846,0,computed only; no published table this year to check against
+BEN,2020,0.148984,,,50,0,computed only; no published table this year to check against
+BEN,2021,0.140766,,,50,0,computed only; no published table this year to check against
+BEN,2022,0.134826,0.1348,0.0,50,0,
+BEN,2023,0.130701,0.1307,0.0,50,0,
+BEN,2024,0.126834,0.1269,0.0001,50,0,
+BEN,2025,0.117567,,,50,0,computed only; no published table this year to check against
+BGD,2016,0.920688,,,6605,1,computed only; no published table this year to check against
+BGD,2017,0.843298,,,6605,1,computed only; no published table this year to check against
+BGD,2018,0.811782,,,6605,1,computed only; no published table this year to check against
+BGD,2019,0.793343,,,6605,1,computed only; no published table this year to check against
+BGD,2020,0.779451,,,6605,1,computed only; no published table this year to check against
+BGD,2021,0.770688,,,6605,1,computed only; no published table this year to check against
+BGD,2022,0.76318,0.7692,0.006,6605,1,
+BGD,2023,0.758287,0.7062,0.0521,6605,1,
+BGD,2024,0.754354,0.7024,0.052,6605,1,
+BGD,2025,0.741392,,,6605,1,computed only; no published table this year to check against
+BHR,2018,0.265632,,,1036,0,computed only; no published table this year to check against
+BHR,2019,0.249265,,,1036,0,computed only; no published table this year to check against
+BHR,2020,0.235866,,,1036,0,computed only; no published table this year to check against
+BHR,2021,0.227573,,,1036,0,computed only; no published table this year to check against
+BHR,2022,0.221417,0.2223,0.0009,1036,0,
+BHR,2023,0.217186,0.2181,0.0009,1036,0,
+BHR,2024,0.21331,0.2143,0.001,1036,0,
+BHR,2025,0.203534,,,1036,0,computed only; no published table this year to check against
+BLR,2019,0.214428,,,641,0,computed only; no published table this year to check against
+BLR,2020,0.20106,,,641,0,computed only; no published table this year to check against
+BLR,2021,0.192797,,,641,0,computed only; no published table this year to check against
+BLR,2022,0.186728,0.1872,0.0005,641,0,
+BLR,2023,0.18254,0.1831,0.0006,641,0,
+BLR,2024,0.178667,0.1793,0.0006,641,0,
+BLR,2025,0.169095,,,641,0,computed only; no published table this year to check against
+BRA,2020,0.201853,,,50,1,computed only; no published table this year to check against
+BRA,2021,0.193589,,,50,1,computed only; no published table this year to check against
+BRA,2022,0.187518,0.188,0.0005,50,1,
+BRA,2023,0.183329,0.1839,0.0006,50,1,
+BRA,2024,0.179456,0.1801,0.0006,50,1,
+BRA,2025,0.169879,,,50,1,computed only; no published table this year to check against
+BRN,2016,0.346189,,,524,1,computed only; no published table this year to check against
+BRN,2017,0.297589,,,524,1,computed only; no published table this year to check against
+BRN,2018,0.273422,,,524,1,computed only; no published table this year to check against
+BRN,2019,0.257026,,,524,1,computed only; no published table this year to check against
+BRN,2020,0.24362,,,524,1,computed only; no published table this year to check against
+BRN,2021,0.23532,,,524,1,computed only; no published table this year to check against
+BRN,2022,0.229145,0.2301,0.001,524,1,
+BRN,2023,0.224905,0.2259,0.001,524,1,
+BRN,2024,0.221028,0.2221,0.0011,524,1,
+BRN,2025,0.211206,,,524,1,computed only; no published table this year to check against
+CAN,2018,1.055155,,,9954,0,computed only; no published table this year to check against
+CAN,2019,1.035792,,,9954,0,computed only; no published table this year to check against
+CAN,2020,1.02168,,,9954,0,computed only; no published table this year to check against
+CAN,2021,1.012709,,,9954,0,computed only; no published table this year to check against
+CAN,2022,1.004597,0.8364,0.1682,9954,0,
+CAN,2023,0.99941,0.8319,0.1675,9954,0,
+CAN,2024,0.995452,0.8281,0.1674,9954,0,
+CAN,2025,0.981069,,,9954,0,computed only; no published table this year to check against
+CHE,2016,0.964051,,,7064,1,computed only; no published table this year to check against
+CHE,2017,0.884488,,,7064,1,computed only; no published table this year to check against
+CHE,2018,0.852418,,,7064,1,computed only; no published table this year to check against
+CHE,2019,0.833825,,,7064,1,computed only; no published table this year to check against
+CHE,2020,0.819896,,,7064,1,computed only; no published table this year to check against
+CHE,2021,0.811099,,,7064,1,computed only; no published table this year to check against
+CHE,2022,0.803489,0.8099,0.0064,7064,1,
+CHE,2023,0.798548,0.8054,0.0069,7064,1,
+CHE,2024,0.79461,0.8016,0.007,7064,1,
+CHE,2025,0.781411,,,7064,1,computed only; no published table this year to check against
+CHL,2021,0.145168,,,100,0,computed only; no published table this year to check against
+CHL,2022,0.139217,0.1393,0.0001,100,0,
+CHL,2023,0.135087,0.1351,0.0,100,0,
+CHL,2024,0.131219,0.1313,0.0001,100,0,
+CHL,2025,0.121926,,,100,0,computed only; no published table this year to check against
+CHN,2016,28.431517,,,297804,1,computed only; no published table this year to check against
+CHN,2017,26.975487,,,297804,1,computed only; no published table this year to check against
+CHN,2018,26.592053,,,297804,1,computed only; no published table this year to check against
+CHN,2019,26.475767,,,297804,1,computed only; no published table this year to check against
+CHN,2020,26.438602,,,297804,1,computed only; no published table this year to check against
+CHN,2021,26.407711,,,297804,1,computed only; no published table this year to check against
+CHN,2022,26.336343,26.5856,0.2493,297804,1,
+CHN,2023,26.300201,26.5695,0.2693,297804,1,
+CHN,2024,26.293595,26.565,0.2714,297804,1,
+CHN,2025,26.130229,,,297804,1,computed only; no published table this year to check against
+CIV,2020,0.148984,,,50,0,computed only; no published table this year to check against
+CIV,2021,0.140766,,,50,0,computed only; no published table this year to check against
+CIV,2022,0.134826,0.1304,0.0044,50,0,
+CIV,2023,0.130701,0.1307,0.0,50,0,
+CIV,2024,0.126834,0.1261,0.0007,50,0,
+CIV,2025,0.117567,,,50,0,computed only; no published table this year to check against
+COK,2020,0.145019,,,5,0,computed only; no published table this year to check against
+COK,2021,0.136804,,,5,0,computed only; no published table this year to check against
+COK,2022,0.130874,0.1309,0.0,5,0,
+COK,2023,0.126754,0.1267,0.0001,5,0,
+COK,2024,0.122887,0.1229,0.0,5,0,
+COK,2025,0.113643,,,5,0,computed only; no published table this year to check against
+CYP,2018,0.191619,,,200,0,computed only; no published table this year to check against
+CYP,2019,0.175534,,,200,0,computed only; no published table this year to check against
+CYP,2020,0.162201,,,200,0,computed only; no published table this year to check against
+CYP,2021,0.153972,,,200,0,computed only; no published table this year to check against
+CYP,2022,0.147999,0.1481,0.0001,200,0,
+CYP,2023,0.143858,0.144,0.0001,200,0,
+CYP,2024,0.13999,0.1402,0.0002,200,0,
+CYP,2025,0.130645,,,200,0,computed only; no published table this year to check against
+DEU,2016,4.533102,,,44842,1,computed only; no published table this year to check against
+DEU,2017,4.274685,,,44842,1,computed only; no published table this year to check against
+DEU,2018,4.196959,,,44842,1,computed only; no published table this year to check against
+DEU,2019,4.165672,,,44842,1,computed only; no published table this year to check against
+DEU,2020,4.148724,,,44842,1,computed only; no published table this year to check against
+DEU,2021,4.137056,,,44842,1,computed only; no published table this year to check against
+DEU,2022,4.121162,4.1591,0.0379,44842,1,
+DEU,2023,4.112166,4.1531,0.0409,44842,1,
+DEU,2024,4.107882,4.1492,0.0413,44842,1,
+DEU,2025,4.07517,,,44842,1,computed only; no published table this year to check against
+DJI,2024,0.122887,0.1229,0.0,5,0,
+DJI,2025,0.113643,,,5,0,computed only; no published table this year to check against
+DNK,2016,0.645767,,,3695,1,computed only; no published table this year to check against
+DNK,2017,0.582154,,,3695,1,computed only; no published table this year to check against
+DNK,2018,0.554156,,,3695,1,computed only; no published table this year to check against
+DNK,2019,0.536694,,,3695,1,computed only; no published table this year to check against
+DNK,2020,0.523034,,,3695,1,computed only; no published table this year to check against
+DNK,2021,0.514493,,,3695,1,computed only; no published table this year to check against
+DNK,2022,0.507623,0.5112,0.0036,3695,1,
+DNK,2023,0.503043,0.5069,0.0039,3695,1,
+DNK,2024,0.499137,0.5031,0.004,3695,1,
+DNK,2025,0.487677,,,3695,1,computed only; no published table this year to check against
+DZA,2019,0.162305,,,50,0,computed only; no published table this year to check against
+DZA,2020,0.148984,,,50,0,computed only; no published table this year to check against
+DZA,2021,0.140766,,,50,0,computed only; no published table this year to check against
+DZA,2022,0.134826,0.1348,0.0,50,0,
+DZA,2023,0.130701,0.1307,0.0,50,0,
+DZA,2024,0.126834,0.1269,0.0001,50,0,
+DZA,2025,0.117567,,,50,0,computed only; no published table this year to check against
+ECU,2019,0.162305,,,50,0,computed only; no published table this year to check against
+ECU,2020,0.148984,,,50,0,computed only; no published table this year to check against
+ECU,2021,0.140766,,,50,0,computed only; no published table this year to check against
+ECU,2022,0.134826,0.1348,0.0,50,0,
+ECU,2023,0.130701,0.1307,0.0,50,0,
+ECU,2024,0.126834,0.1269,0.0001,50,0,
+ECU,2025,0.117567,,,50,0,computed only; no published table this year to check against
+EGY,2016,0.91124,,,6505,1,computed only; no published table this year to check against
+EGY,2017,0.834324,,,6505,1,computed only; no published table this year to check against
+EGY,2018,0.802929,,,6505,1,computed only; no published table this year to check against
+EGY,2019,0.784523,,,6505,1,computed only; no published table this year to check against
+EGY,2020,0.770639,,,6505,1,computed only; no published table this year to check against
+EGY,2021,0.761884,,,6505,1,computed only; no published table this year to check against
+EGY,2022,0.754398,0.7603,0.0059,6505,1,
+EGY,2023,0.749516,0.7559,0.0064,6505,1,
+EGY,2024,0.745584,0.7521,0.0065,6505,1,
+EGY,2025,0.732673,,,6505,1,computed only; no published table this year to check against
+ESP,2017,1.831335,,,17615,1,computed only; no published table this year to check against
+ESP,2018,1.786513,,,17615,1,computed only; no published table this year to check against
+ESP,2019,1.764375,,,17615,1,computed only; no published table this year to check against
+ESP,2020,1.749602,,,17615,1,computed only; no published table this year to check against
+ESP,2021,1.740004,,,17615,1,computed only; no published table this year to check against
+ESP,2022,1.73008,1.7453,0.0152,17615,1,
+ESP,2023,1.724007,1.7404,0.0164,17615,1,
+ESP,2024,1.719973,1.7366,0.0166,17615,1,
+ESP,2025,1.701323,,,17615,1,computed only; no published table this year to check against
+ETH,2017,0.237822,,,458,0,computed only; no published table this year to check against
+ETH,2018,0.21446,,,458,0,computed only; no published table this year to check against
+ETH,2019,0.198288,,,458,0,computed only; no published table this year to check against
+ETH,2020,0.184935,,,458,0,computed only; no published table this year to check against
+ETH,2021,0.176686,,,458,0,computed only; no published table this year to check against
+ETH,2022,0.170656,0.1629,0.0078,458,0,
+ETH,2023,0.166488,0.1587,0.0078,458,0,
+ETH,2024,0.162617,0.163,0.0004,458,0,
+ETH,2025,0.153139,,,458,0,computed only; no published table this year to check against
+FIN,2016,0.589838,,,3103,1,computed only; no published table this year to check against
+FIN,2017,0.529028,,,3103,1,computed only; no published table this year to check against
+FIN,2018,0.501745,,,3103,1,computed only; no published table this year to check against
+FIN,2019,0.484482,,,3103,1,computed only; no published table this year to check against
+FIN,2020,0.47087,,,3103,1,computed only; no published table this year to check against
+FIN,2021,0.462374,,,3103,1,computed only; no published table this year to check against
+FIN,2022,0.455633,0.4587,0.0031,3103,1,
+FIN,2023,0.451117,0.4544,0.0033,3103,1,
+FIN,2024,0.447216,0.4506,0.0034,3103,1,
+FIN,2025,0.436062,,,3103,1,computed only; no published table this year to check against
+FJI,2017,0.207939,,,125,0,computed only; no published table this year to check against
+FJI,2018,0.184979,,,125,0,computed only; no published table this year to check against
+FJI,2019,0.168919,,,125,0,computed only; no published table this year to check against
+FJI,2020,0.155593,,,125,0,computed only; no published table this year to check against
+FJI,2021,0.147369,,,125,0,computed only; no published table this year to check against
+FJI,2022,0.141412,0.1415,0.0001,125,0,
+FJI,2023,0.13728,0.1374,0.0001,125,0,
+FJI,2024,0.133412,0.1335,0.0001,125,0,
+FJI,2025,0.124106,,,125,0,computed only; no published table this year to check against
+FRA,2016,3.48576,,,33756,1,computed only; no published table this year to check against
+FRA,2017,3.279828,,,33756,1,computed only; no published table this year to check against
+FRA,2018,3.2155,,,33756,1,computed only; no published table this year to check against
+FRA,2019,3.187937,,,33756,1,computed only; no published table this year to check against
+FRA,2020,3.171875,,,33756,1,computed only; no published table this year to check against
+FRA,2021,3.16105,,,33756,1,computed only; no published table this year to check against
+FRA,2022,3.147587,3.1763,0.0287,33756,1,
+FRA,2023,3.139781,3.1707,0.0309,33756,1,
+FRA,2024,3.135599,3.1669,0.0313,33756,1,
+FRA,2025,3.108612,,,33756,1,computed only; no published table this year to check against
+GBR,2016,3.182592,,,30547,1,computed only; no published table this year to check against
+GBR,2017,2.991852,,,30547,1,computed only; no published table this year to check against
+GBR,2018,2.931402,,,30547,1,computed only; no published table this year to check against
+GBR,2019,2.904918,,,30547,1,computed only; no published table this year to check against
+GBR,2020,2.889112,,,30547,1,computed only; no published table this year to check against
+GBR,2021,2.878531,,,30547,1,computed only; no published table this year to check against
+GBR,2022,2.865772,2.8918,0.026,30547,1,
+GBR,2023,2.85831,2.8864,0.0281,30547,1,
+GBR,2024,2.854157,2.8825,0.0283,30547,1,
+GBR,2025,2.828829,,,30547,1,computed only; no published table this year to check against
+GEO,2016,0.347606,,,539,1,computed only; no published table this year to check against
+GEO,2017,0.298935,,,539,1,computed only; no published table this year to check against
+GEO,2018,0.27475,,,539,1,computed only; no published table this year to check against
+GEO,2019,0.258349,,,539,1,computed only; no published table this year to check against
+GEO,2020,0.244942,,,539,1,computed only; no published table this year to check against
+GEO,2021,0.236641,,,539,1,computed only; no published table this year to check against
+GEO,2022,0.230462,0.2314,0.0009,539,1,
+GEO,2023,0.226221,0.2272,0.001,539,1,
+GEO,2024,0.222344,0.2234,0.0011,539,1,
+GEO,2025,0.212514,,,539,1,computed only; no published table this year to check against
+GHA,2020,0.148984,,,50,0,computed only; no published table this year to check against
+GHA,2021,0.140766,,,50,0,computed only; no published table this year to check against
+GHA,2022,0.134826,0.134,0.0008,50,0,
+GHA,2023,0.130701,0.1289,0.0018,50,0,
+GHA,2024,0.126834,0.1242,0.0026,50,0,
+GHA,2025,0.117567,,,50,0,computed only; no published table this year to check against
+GIN,2019,0.162305,,,50,0,computed only; no published table this year to check against
+GIN,2020,0.148984,,,50,0,computed only; no published table this year to check against
+GIN,2021,0.140766,,,50,0,computed only; no published table this year to check against
+GIN,2022,0.134826,0.1331,0.0017,50,0,
+GIN,2023,0.130701,0.128,0.0027,50,0,
+GIN,2024,0.126834,0.1242,0.0026,50,0,
+GIN,2025,0.117567,,,50,0,computed only; no published table this year to check against
+GRC,2019,0.166714,,,100,0,computed only; no published table this year to check against
+GRC,2020,0.15339,,,100,0,computed only; no published table this year to check against
+GRC,2021,0.145168,,,100,0,computed only; no published table this year to check against
+GRC,2022,0.139217,0.1393,0.0001,100,0,
+GRC,2023,0.135087,0.1351,0.0,100,0,
+GRC,2024,0.131219,0.1313,0.0001,100,0,
+GRC,2025,0.121926,,,100,0,computed only; no published table this year to check against
+HKG,2017,0.883322,,,7651,0,computed only; no published table this year to check against
+HKG,2018,0.851267,,,7651,0,computed only; no published table this year to check against
+HKG,2019,0.832678,,,7651,0,computed only; no published table this year to check against
+HKG,2020,0.81875,,,7651,0,computed only; no published table this year to check against
+HKG,2021,0.809954,,,7651,0,computed only; no published table this year to check against
+HKG,2022,0.802347,0.8087,0.0064,7651,0,
+HKG,2023,0.797407,0.8043,0.0069,7651,0,
+HKG,2024,0.79347,0.8004,0.0069,7651,0,
+HKG,2025,0.780277,,,7651,0,computed only; no published table this year to check against
+HRV,2021,0.140766,,,50,0,computed only; no published table this year to check against
+HRV,2022,0.134826,0.1348,0.0,50,0,
+HRV,2023,0.130701,0.1307,0.0,50,0,
+HRV,2024,0.126834,0.1269,0.0001,50,0,
+HRV,2025,0.117567,,,50,0,computed only; no published table this year to check against
+HUN,2017,0.286461,,,1000,0,computed only; no published table this year to check against
+HUN,2018,0.262444,,,1000,0,computed only; no published table this year to check against
+HUN,2019,0.24609,,,1000,0,computed only; no published table this year to check against
+HUN,2020,0.232694,,,1000,0,computed only; no published table this year to check against
+HUN,2021,0.224403,,,1000,0,computed only; no published table this year to check against
+HUN,2022,0.218255,0.2191,0.0008,1000,0,
+HUN,2023,0.214029,0.2149,0.0009,1000,0,
+HUN,2024,0.210153,0.2111,0.0009,1000,0,
+HUN,2025,0.200395,,,1000,0,computed only; no published table this year to check against
+IDN,2016,3.471683,,,33607,1,computed only; no published table this year to check against
+IDN,2017,3.266456,,,33607,1,computed only; no published table this year to check against
+IDN,2018,3.202309,,,33607,1,computed only; no published table this year to check against
+IDN,2019,3.174796,,,33607,1,computed only; no published table this year to check against
+IDN,2020,3.158746,,,33607,1,computed only; no published table this year to check against
+IDN,2021,3.147932,,,33607,1,computed only; no published table this year to check against
+IDN,2022,3.134501,3.163,0.0285,33607,1,
+IDN,2023,3.126711,3.1575,0.0308,33607,1,
+IDN,2024,3.122531,3.1537,0.0312,33607,1,
+IDN,2025,3.095621,,,33607,1,computed only; no published table this year to check against
+IND,2016,8.201635,,,83673,1,computed only; no published table this year to check against
+IND,2017,7.759378,,,83673,1,computed only; no published table this year to check against
+IND,2018,7.634724,,,83673,1,computed only; no published table this year to check against
+IND,2019,7.590389,,,83673,1,computed only; no published table this year to check against
+IND,2020,7.570337,,,83673,1,computed only; no published table this year to check against
+IND,2021,7.555719,,,83673,1,computed only; no published table this year to check against
+IND,2022,7.531309,7.6017,0.0704,83673,1,
+IND,2023,7.518146,7.5942,0.0761,83673,1,
+IND,2024,7.513506,7.5902,0.0767,83673,1,
+IND,2025,7.460738,,,83673,1,computed only; no published table this year to check against
+IRL,2017,0.31455,,,1313,0,computed only; no published table this year to check against
+IRL,2018,0.290155,,,1313,0,computed only; no published table this year to check against
+IRL,2019,0.273695,,,1313,0,computed only; no published table this year to check against
+IRL,2020,0.260274,,,1313,0,computed only; no published table this year to check against
+IRL,2021,0.25196,,,1313,0,computed only; no published table this year to check against
+IRL,2022,0.245743,0.2468,0.0011,1313,0,
+IRL,2023,0.241483,0.2426,0.0011,1313,0,
+IRL,2024,0.237604,0.2388,0.0012,1313,0,
+IRL,2025,0.227684,,,1313,0,computed only; no published table this year to check against
+IRN,2017,1.669175,,,15808,1,computed only; no published table this year to check against
+IRN,2018,1.626537,,,15808,1,computed only; no published table this year to check against
+IRN,2019,1.605006,,,15808,1,computed only; no published table this year to check against
+IRN,2020,1.590378,,,15808,1,computed only; no published table this year to check against
+IRN,2021,1.580916,,,15808,1,computed only; no published table this year to check against
+IRN,2022,1.571389,1.0245,0.5469,15808,1,
+IRN,2023,1.565509,1.02,0.5455,15808,1,
+IRN,2024,1.561492,1.0161,0.5454,15808,1,
+IRN,2025,1.543776,,,15808,1,computed only; no published table this year to check against
+IRQ,2022,0.15239,0.1526,0.0002,250,0,
+IRQ,2023,0.148244,0.1484,0.0002,250,0,
+IRQ,2024,0.144375,0.1446,0.0002,250,0,
+IRQ,2025,0.135004,,,250,0,computed only; no published table this year to check against
+ISL,2016,0.313312,,,176,1,computed only; no published table this year to check against
+ISL,2017,0.26636,,,176,1,computed only; no published table this year to check against
+ISL,2018,0.242613,,,176,1,computed only; no published table this year to check against
+ISL,2019,0.226334,,,176,1,computed only; no published table this year to check against
+ISL,2020,0.212956,,,176,1,computed only; no published table this year to check against
+ISL,2021,0.204682,,,176,1,computed only; no published table this year to check against
+ISL,2022,0.198583,0.1992,0.0006,176,1,
+ISL,2023,0.194381,0.195,0.0006,176,1,
+ISL,2024,0.190507,0.1912,0.0007,176,1,
+ISL,2025,0.180865,,,176,1,computed only; no published table this year to check against
+ISR,2016,1.005148,,,7499,1,computed only; no published table this year to check against
+ISR,2017,0.923525,,,7499,1,computed only; no published table this year to check against
+ISR,2018,0.890929,,,7499,1,computed only; no published table this year to check against
+ISR,2019,0.87219,,,7499,1,computed only; no published table this year to check against
+ISR,2020,0.858226,,,7499,1,computed only; no published table this year to check against
+ISR,2021,0.849396,,,7499,1,computed only; no published table this year to check against
+ISR,2022,0.841691,0.8484,0.0067,7499,1,
+ISR,2023,0.836703,0.844,0.0073,7499,1,
+ISR,2024,0.832762,0.8401,0.0073,7499,1,
+ISR,2025,0.819337,,,7499,1,computed only; no published table this year to check against
+ITA,2016,2.726375,,,25718,1,computed only; no published table this year to check against
+ITA,2017,2.558498,,,25718,1,computed only; no published table this year to check against
+ITA,2018,2.503884,,,25718,1,computed only; no published table this year to check against
+ITA,2019,2.479022,,,25718,1,computed only; no published table this year to check against
+ITA,2020,2.463603,,,25718,1,computed only; no published table this year to check against
+ITA,2021,2.453388,,,25718,1,computed only; no published table this year to check against
+ITA,2022,2.441688,2.4636,0.0219,25718,1,
+ITA,2023,2.434744,2.4585,0.0238,25718,1,
+ITA,2024,2.430636,2.4546,0.024,25718,1,
+ITA,2025,2.407801,,,25718,1,computed only; no published table this year to check against
+JOR,2016,0.409298,,,1192,1,computed only; no published table this year to check against
+JOR,2017,0.357535,,,1192,1,computed only; no published table this year to check against
+JOR,2018,0.332561,,,1192,1,computed only; no published table this year to check against
+JOR,2019,0.315941,,,1192,1,computed only; no published table this year to check against
+JOR,2020,0.302481,,,1192,1,computed only; no published table this year to check against
+JOR,2021,0.29413,,,1192,1,computed only; no published table this year to check against
+JOR,2022,0.287809,0.2893,0.0015,1192,1,
+JOR,2023,0.283497,0.2851,0.0016,1192,1,
+JOR,2024,0.279614,0.2813,0.0017,1192,1,
+JOR,2025,0.269447,,,1192,1,computed only; no published table this year to check against
+KAZ,2016,0.985686,,,7293,1,computed only; no published table this year to check against
+KAZ,2017,0.905039,,,7293,1,computed only; no published table this year to check against
+KAZ,2018,0.872692,,,7293,1,computed only; no published table this year to check against
+KAZ,2019,0.854021,,,7293,1,computed only; no published table this year to check against
+KAZ,2020,0.840074,,,7293,1,computed only; no published table this year to check against
+KAZ,2021,0.83126,,,7293,1,computed only; no published table this year to check against
+KAZ,2022,0.8236,0.8302,0.0066,7293,1,
+KAZ,2023,0.818634,0.8257,0.0071,7293,1,
+KAZ,2024,0.814695,0.8219,0.0072,7293,1,
+KAZ,2025,0.801376,,,7293,1,computed only; no published table this year to check against
+KEN,2024,0.126834,0.1269,0.0001,50,0,
+KEN,2025,0.117567,,,50,0,computed only; no published table this year to check against
+KGZ,2016,0.322004,,,268,1,computed only; no published table this year to check against
+KGZ,2017,0.274616,,,268,1,computed only; no published table this year to check against
+KGZ,2018,0.250758,,,268,1,computed only; no published table this year to check against
+KGZ,2019,0.234448,,,268,1,computed only; no published table this year to check against
+KGZ,2020,0.221063,,,268,1,computed only; no published table this year to check against
+KGZ,2021,0.212782,,,268,1,computed only; no published table this year to check against
+KGZ,2022,0.206663,0.1979,0.0088,268,1,
+KGZ,2023,0.202451,0.2032,0.0007,268,1,
+KGZ,2024,0.198576,0.1994,0.0008,268,1,
+KGZ,2025,0.188886,,,268,1,computed only; no published table this year to check against
+KHM,2016,0.355542,,,623,1,computed only; no published table this year to check against
+KHM,2017,0.306473,,,623,1,computed only; no published table this year to check against
+KHM,2018,0.282187,,,623,1,computed only; no published table this year to check against
+KHM,2019,0.265758,,,623,1,computed only; no published table this year to check against
+KHM,2020,0.252344,,,623,1,computed only; no published table this year to check against
+KHM,2021,0.244036,,,623,1,computed only; no published table this year to check against
+KHM,2022,0.237839,0.2388,0.001,623,1,
+KHM,2023,0.233589,0.2347,0.0011,623,1,
+KHM,2024,0.229711,0.2308,0.0011,623,1,
+KHM,2025,0.219838,,,623,1,computed only; no published table this year to check against
+KOR,2016,3.828796,,,37387,1,computed only; no published table this year to check against
+KOR,2017,3.605673,,,37387,1,computed only; no published table this year to check against
+KOR,2018,3.536957,,,37387,1,computed only; no published table this year to check against
+KOR,2019,3.508175,,,37387,1,computed only; no published table this year to check against
+KOR,2020,3.491823,,,37387,1,computed only; no published table this year to check against
+KOR,2021,3.480721,,,37387,1,computed only; no published table this year to check against
+KOR,2022,3.466462,3.4982,0.0317,37387,1,
+KOR,2023,3.458266,3.4925,0.0342,37387,1,
+KOR,2024,3.454051,3.4886,0.0345,37387,1,
+KOR,2025,3.425189,,,37387,1,computed only; no published table this year to check against
+KWT,2025,0.580531,,,5360,0,computed only; no published table this year to check against
+LAO,2016,0.337309,,,430,1,computed only; no published table this year to check against
+LAO,2017,0.289153,,,430,1,computed only; no published table this year to check against
+LAO,2018,0.2651,,,430,1,computed only; no published table this year to check against
+LAO,2019,0.248736,,,430,1,computed only; no published table this year to check against
+LAO,2020,0.235337,,,430,1,computed only; no published table this year to check against
+LAO,2021,0.227044,,,430,1,computed only; no published table this year to check against
+LAO,2022,0.22089,0.2217,0.0008,430,1,
+LAO,2023,0.21666,0.2176,0.0009,430,1,
+LAO,2024,0.212784,0.2137,0.0009,430,1,
+LAO,2025,0.20301,,,430,1,computed only; no published table this year to check against
+LBR,2021,0.140766,,,50,0,computed only; no published table this year to check against
+LBR,2022,0.134826,0.1304,0.0044,50,0,
+LBR,2023,0.130701,0.1298,0.0009,50,0,
+LBR,2024,0.126834,0.126,0.0008,50,0,
+LBR,2025,0.117567,,,50,0,computed only; no published table this year to check against
+LBY,2023,0.172453,0.1729,0.0004,526,0,
+LBY,2024,0.168581,0.1691,0.0005,526,0,
+LBY,2025,0.159068,,,526,0,computed only; no published table this year to check against
+LKA,2016,0.550821,,,2690,1,computed only; no published table this year to check against
+LKA,2017,0.491966,,,2690,1,computed only; no published table this year to check against
+LKA,2018,0.465182,,,2690,1,computed only; no published table this year to check against
+LKA,2019,0.448058,,,2690,1,computed only; no published table this year to check against
+LKA,2020,0.434478,,,2690,1,computed only; no published table this year to check against
+LKA,2021,0.426014,,,2690,1,computed only; no published table this year to check against
+LKA,2022,0.419363,0.4221,0.0027,2690,1,
+LKA,2023,0.414891,0.4178,0.0029,2690,1,
+LKA,2024,0.410994,0.414,0.003,2690,1,
+LKA,2025,0.400054,,,2690,1,computed only; no published table this year to check against
+LUX,2016,0.362533,,,697,1,computed only; no published table this year to check against
+LUX,2017,0.313114,,,697,1,computed only; no published table this year to check against
+LUX,2018,0.288738,,,697,1,computed only; no published table this year to check against
+LUX,2019,0.272284,,,697,1,computed only; no published table this year to check against
+LUX,2020,0.258864,,,697,1,computed only; no published table this year to check against
+LUX,2021,0.250551,,,697,1,computed only; no published table this year to check against
+LUX,2022,0.244338,0.2454,0.0011,697,1,
+LUX,2023,0.240079,0.2412,0.0011,697,1,
+LUX,2024,0.236201,0.2374,0.0012,697,1,
+LUX,2025,0.226289,,,697,1,computed only; no published table this year to check against
+MAR,2022,0.134826,0.1348,0.0,50,0,
+MAR,2023,0.130701,0.1307,0.0,50,0,
+MAR,2024,0.126834,0.1269,0.0001,50,0,
+MAR,2025,0.117567,,,50,0,computed only; no published table this year to check against
+MDG,2018,0.17834,,,50,0,computed only; no published table this year to check against
+MDG,2019,0.162305,,,50,0,computed only; no published table this year to check against
+MDG,2020,0.148984,,,50,0,computed only; no published table this year to check against
+MDG,2021,0.140766,,,50,0,computed only; no published table this year to check against
+MDG,2022,0.134826,0.1348,0.0,50,0,
+MDG,2023,0.130701,0.1307,0.0,50,0,
+MDG,2024,0.126834,0.1269,0.0001,50,0,
+MDG,2025,0.117567,,,50,0,computed only; no published table this year to check against
+MDV,2016,0.303487,,,72,1,computed only; no published table this year to check against
+MDV,2017,0.257027,,,72,1,computed only; no published table this year to check against
+MDV,2018,0.233406,,,72,1,computed only; no published table this year to check against
+MDV,2019,0.217162,,,72,1,computed only; no published table this year to check against
+MDV,2020,0.203792,,,72,1,computed only; no published table this year to check against
+MDV,2021,0.195526,,,72,1,computed only; no published table this year to check against
+MDV,2022,0.18945,0.19,0.0006,72,1,
+MDV,2023,0.185259,0.1858,0.0005,72,1,
+MDV,2024,0.181386,0.1814,0.0,72,1,
+MDV,2025,0.171797,,,72,1,computed only; no published table this year to check against
+MLT,2016,0.309533,,,136,1,computed only; no published table this year to check against
+MLT,2017,0.26277,,,136,1,computed only; no published table this year to check against
+MLT,2018,0.239072,,,136,1,computed only; no published table this year to check against
+MLT,2019,0.222807,,,136,1,computed only; no published table this year to check against
+MLT,2020,0.209431,,,136,1,computed only; no published table this year to check against
+MLT,2021,0.201161,,,136,1,computed only; no published table this year to check against
+MLT,2022,0.19507,0.1957,0.0006,136,1,
+MLT,2023,0.190872,0.1915,0.0006,136,1,
+MLT,2024,0.186999,0.1877,0.0007,136,1,
+MLT,2025,0.177377,,,136,1,computed only; no published table this year to check against
+MMR,2016,0.546569,,,2645,1,computed only; no published table this year to check against
+MMR,2017,0.487928,,,2645,1,computed only; no published table this year to check against
+MMR,2018,0.461198,,,2645,1,computed only; no published table this year to check against
+MMR,2019,0.444089,,,2645,1,computed only; no published table this year to check against
+MMR,2020,0.430513,,,2645,1,computed only; no published table this year to check against
+MMR,2021,0.422052,,,2645,1,computed only; no published table this year to check against
+MMR,2022,0.415411,0.3712,0.0442,2645,1,
+MMR,2023,0.410944,0.3435,0.0674,2645,1,
+MMR,2024,0.407048,0.3163,0.0907,2645,1,
+MMR,2025,0.39613,,,2645,1,computed only; no published table this year to check against
+MNG,2016,0.335514,,,411,1,computed only; no published table this year to check against
+MNG,2017,0.287448,,,411,1,computed only; no published table this year to check against
+MNG,2018,0.263418,,,411,1,computed only; no published table this year to check against
+MNG,2019,0.24706,,,411,1,computed only; no published table this year to check against
+MNG,2020,0.233663,,,411,1,computed only; no published table this year to check against
+MNG,2021,0.225372,,,411,1,computed only; no published table this year to check against
+MNG,2022,0.219221,0.22,0.0008,411,1,
+MNG,2023,0.214994,0.2159,0.0009,411,1,
+MNG,2024,0.211117,0.2121,0.001,411,1,
+MNG,2025,0.201354,,,411,1,computed only; no published table this year to check against
+MRT,2025,0.117567,,,50,0,computed only; no published table this year to check against
+MYS,2017,0.348831,,,1095,1,computed only; no published table this year to check against
+MYS,2018,0.323974,,,1095,1,computed only; no published table this year to check against
+MYS,2019,0.307386,,,1095,1,computed only; no published table this year to check against
+MYS,2020,0.293934,,,1095,1,computed only; no published table this year to check against
+MYS,2021,0.285591,,,1095,1,computed only; no published table this year to check against
+MYS,2022,0.27929,0.2807,0.0014,1095,1,
+MYS,2023,0.274989,0.2765,0.0015,1095,1,
+MYS,2024,0.271107,0.2727,0.0016,1095,1,
+MYS,2025,0.26099,,,1095,1,computed only; no published table this year to check against
+NLD,2016,1.270998,,,10313,1,computed only; no published table this year to check against
+NLD,2017,1.176054,,,10313,1,computed only; no published table this year to check against
+NLD,2018,1.140057,,,10313,1,computed only; no published table this year to check against
+NLD,2019,1.120372,,,10313,1,computed only; no published table this year to check against
+NLD,2020,1.106183,,,10313,1,computed only; no published table this year to check against
+NLD,2021,1.097139,,,10313,1,computed only; no published table this year to check against
+NLD,2022,1.088817,1.0979,0.0091,10313,1,
+NLD,2023,1.083527,1.0933,0.0098,10313,1,
+NLD,2024,1.07956,1.0895,0.0099,10313,1,
+NLD,2025,1.064682,,,10313,1,computed only; no published table this year to check against
+NOR,2016,0.81686,,,5506,1,computed only; no published table this year to check against
+NOR,2017,0.744674,,,5506,1,computed only; no published table this year to check against
+NOR,2018,0.714486,,,5506,1,computed only; no published table this year to check against
+NOR,2019,0.696416,,,5506,1,computed only; no published table this year to check against
+NOR,2020,0.682612,,,5506,1,computed only; no published table this year to check against
+NOR,2021,0.673933,,,5506,1,computed only; no published table this year to check against
+NOR,2022,0.666665,0.6717,0.005,5506,1,
+NOR,2023,0.661891,0.6674,0.0055,5506,1,
+NOR,2024,0.657968,0.6635,0.0055,5506,1,
+NOR,2025,0.645573,,,5506,1,computed only; no published table this year to check against
+NPL,2016,0.373114,,,809,1,computed only; no published table this year to check against
+NPL,2017,0.323165,,,809,1,computed only; no published table this year to check against
+NPL,2018,0.298654,,,809,1,computed only; no published table this year to check against
+NPL,2019,0.282162,,,809,1,computed only; no published table this year to check against
+NPL,2020,0.268733,,,809,1,computed only; no published table this year to check against
+NPL,2021,0.260411,,,809,1,computed only; no published table this year to check against
+NPL,2022,0.254173,0.2553,0.0011,809,1,
+NPL,2023,0.249903,0.2511,0.0012,809,1,
+NPL,2024,0.246024,0.2473,0.0013,809,1,
+NPL,2025,0.236054,,,809,1,computed only; no published table this year to check against
+NRU,2025,0.113643,,,5,0,computed only; no published table this year to check against
+NZL,2016,0.732684,,,4615,1,computed only; no published table this year to check against
+NZL,2017,0.664715,,,4615,1,computed only; no published table this year to check against
+NZL,2018,0.635605,,,4615,1,computed only; no published table this year to check against
+NZL,2019,0.617834,,,4615,1,computed only; no published table this year to check against
+NZL,2020,0.604101,,,4615,1,computed only; no published table this year to check against
+NZL,2021,0.59549,,,4615,1,computed only; no published table this year to check against
+NZL,2022,0.588417,0.5928,0.0044,4615,1,
+NZL,2023,0.583739,0.5884,0.0047,4615,1,
+NZL,2024,0.579824,0.5846,0.0048,4615,1,
+NZL,2025,0.567889,,,4615,1,computed only; no published table this year to check against
+OMN,2016,0.541562,,,2592,1,computed only; no published table this year to check against
+OMN,2017,0.483171,,,2592,1,computed only; no published table this year to check against
+OMN,2018,0.456505,,,2592,1,computed only; no published table this year to check against
+OMN,2019,0.439415,,,2592,1,computed only; no published table this year to check against
+OMN,2020,0.425843,,,2592,1,computed only; no published table this year to check against
+OMN,2021,0.417386,,,2592,1,computed only; no published table this year to check against
+OMN,2022,0.410757,0.4134,0.0026,2592,1,
+OMN,2023,0.406295,0.4091,0.0028,2592,1,
+OMN,2024,0.402399,0.4053,0.0029,2592,1,
+OMN,2025,0.391509,,,2592,1,computed only; no published table this year to check against
+PAK,2016,1.273644,,,10341,1,computed only; no published table this year to check against
+PAK,2017,1.178566,,,10341,1,computed only; no published table this year to check against
+PAK,2018,1.142536,,,10341,1,computed only; no published table this year to check against
+PAK,2019,1.122841,,,10341,1,computed only; no published table this year to check against
+PAK,2020,1.10865,,,10341,1,computed only; no published table this year to check against
+PAK,2021,1.099604,,,10341,1,computed only; no published table this year to check against
+PAK,2022,1.091276,1.1004,0.0091,10341,1,
+PAK,2023,1.085983,1.0958,0.0098,10341,1,
+PAK,2024,1.082016,1.092,0.01,10341,1,
+PAK,2025,1.067123,,,10341,1,computed only; no published table this year to check against
+PER,2022,0.266205,0.2675,0.0013,1546,0,
+PER,2023,0.26192,0.2633,0.0014,1546,0,
+PER,2024,0.258039,0.2595,0.0015,1546,0,
+PER,2025,0.247999,,,1546,0,computed only; no published table this year to check against
+PHL,2016,1.221683,,,9791,1,computed only; no published table this year to check against
+PHL,2017,1.129209,,,9791,1,computed only; no published table this year to check against
+PHL,2018,1.093843,,,9791,1,computed only; no published table this year to check against
+PHL,2019,1.074334,,,9791,1,computed only; no published table this year to check against
+PHL,2020,1.060187,,,9791,1,computed only; no published table this year to check against
+PHL,2021,1.051182,,,9791,1,computed only; no published table this year to check against
+PHL,2022,1.042975,1.0516,0.0086,9791,1,
+PHL,2023,1.037741,1.0471,0.0094,9791,1,
+PHL,2024,1.033779,1.0432,0.0094,9791,1,
+PHL,2025,1.01917,,,9791,1,computed only; no published table this year to check against
+PNG,2024,0.126834,0.1269,0.0001,50,0,
+PNG,2025,0.117567,,,50,0,computed only; no published table this year to check against
+POL,2016,1.082522,,,8318,1,computed only; no published table this year to check against
+POL,2017,0.997022,,,8318,1,computed only; no published table this year to check against
+POL,2018,0.963437,,,8318,1,computed only; no published table this year to check against
+POL,2019,0.944422,,,8318,1,computed only; no published table this year to check against
+POL,2020,0.930393,,,8318,1,computed only; no published table this year to check against
+POL,2021,0.9215,,,8318,1,computed only; no published table this year to check against
+POL,2022,0.913616,0.921,0.0074,8318,1,
+POL,2023,0.90854,0.9165,0.008,8318,1,
+POL,2024,0.904591,0.9127,0.0081,8318,1,
+POL,2025,0.890743,,,8318,1,computed only; no published table this year to check against
+PRT,2017,0.308896,,,650,1,computed only; no published table this year to check against
+PRT,2018,0.284577,,,650,1,computed only; no published table this year to check against
+PRT,2019,0.268139,,,650,1,computed only; no published table this year to check against
+PRT,2020,0.254723,,,650,1,computed only; no published table this year to check against
+PRT,2021,0.246413,,,650,1,computed only; no published table this year to check against
+PRT,2022,0.24021,0.2412,0.001,650,1,
+PRT,2023,0.235957,0.237,0.001,650,1,
+PRT,2024,0.232079,0.2332,0.0011,650,1,
+PRT,2025,0.222192,,,650,1,computed only; no published table this year to check against
+QAT,2016,0.867687,,,6044,1,computed only; no published table this year to check against
+QAT,2017,0.792954,,,6044,1,computed only; no published table this year to check against
+QAT,2018,0.762116,,,6044,1,computed only; no published table this year to check against
+QAT,2019,0.743865,,,6044,1,computed only; no published table this year to check against
+QAT,2020,0.730018,,,6044,1,computed only; no published table this year to check against
+QAT,2021,0.721298,,,6044,1,computed only; no published table this year to check against
+QAT,2022,0.713912,0.7194,0.0055,6044,1,
+QAT,2023,0.70908,0.715,0.0059,6044,1,
+QAT,2024,0.705153,0.7112,0.006,6044,1,
+QAT,2025,0.69248,,,6044,1,computed only; no published table this year to check against
+ROU,2018,0.309366,,,1530,0,computed only; no published table this year to check against
+ROU,2019,0.292834,,,1530,0,computed only; no published table this year to check against
+ROU,2020,0.279395,,,1530,0,computed only; no published table this year to check against
+ROU,2021,0.271064,,,1530,0,computed only; no published table this year to check against
+ROU,2022,0.2648,0.2661,0.0013,1530,0,
+ROU,2023,0.260517,0.2619,0.0014,1530,0,
+ROU,2024,0.256636,0.258,0.0014,1530,0,
+ROU,2025,0.246604,,,1530,0,computed only; no published table this year to check against
+RUS,2016,6.471715,,,65362,1,computed only; no published table this year to check against
+RUS,2017,6.116149,,,65362,1,computed only; no published table this year to check against
+RUS,2018,6.013625,,,65362,1,computed only; no published table this year to check against
+RUS,2019,5.975442,,,65362,1,computed only; no published table this year to check against
+RUS,2020,5.956854,,,65362,1,computed only; no published table this year to check against
+RUS,2021,5.943627,,,65362,1,computed only; no published table this year to check against
+RUS,2022,5.923233,5.9783,0.0551,65362,1,
+RUS,2023,5.912035,5.9715,0.0595,65362,1,
+RUS,2024,5.907563,5.9676,0.06,65362,1,
+RUS,2025,5.864252,,,65362,1,computed only; no published table this year to check against
+RWA,2020,0.148984,,,50,0,computed only; no published table this year to check against
+RWA,2021,0.140766,,,50,0,computed only; no published table this year to check against
+RWA,2022,0.134826,0.1348,0.0,50,0,
+RWA,2023,0.130701,0.1298,0.0009,50,0,
+RWA,2024,0.126834,0.1269,0.0001,50,0,
+RWA,2025,0.117567,,,50,0,computed only; no published table this year to check against
+SAU,2016,2.700678,,,25446,1,computed only; no published table this year to check against
+SAU,2017,2.534089,,,25446,1,computed only; no published table this year to check against
+SAU,2018,2.479803,,,25446,1,computed only; no published table this year to check against
+SAU,2019,2.455033,,,25446,1,computed only; no published table this year to check against
+SAU,2020,2.439635,,,25446,1,computed only; no published table this year to check against
+SAU,2021,2.429441,,,25446,1,computed only; no published table this year to check against
+SAU,2022,2.417801,2.4395,0.0217,25446,1,
+SAU,2023,2.410886,2.4344,0.0235,25446,1,
+SAU,2024,2.406781,2.4305,0.0237,25446,1,
+SAU,2025,2.384086,,,25446,1,computed only; no published table this year to check against
+SDN,2018,0.226147,,,590,0,computed only; no published table this year to check against
+SDN,2019,0.20993,,,590,0,computed only; no published table this year to check against
+SDN,2020,0.196566,,,590,0,computed only; no published table this year to check against
+SDN,2021,0.188307,,,590,0,computed only; no published table this year to check against
+SDN,2022,0.182249,0.1412,0.041,590,0,
+SDN,2023,0.178066,0.1371,0.041,590,0,
+SDN,2024,0.174194,0.1375,0.0367,590,0,
+SDN,2025,0.164648,,,590,0,computed only; no published table this year to check against
+SEN,2025,0.117567,,,50,0,computed only; no published table this year to check against
+SGP,2016,0.53287,,,2500,1,computed only; no published table this year to check against
+SGP,2017,0.474915,,,2500,1,computed only; no published table this year to check against
+SGP,2018,0.448361,,,2500,1,computed only; no published table this year to check against
+SGP,2019,0.431301,,,2500,1,computed only; no published table this year to check against
+SGP,2020,0.417736,,,2500,1,computed only; no published table this year to check against
+SGP,2021,0.409286,,,2500,1,computed only; no published table this year to check against
+SGP,2022,0.402678,0.4052,0.0025,2500,1,
+SGP,2023,0.398226,0.401,0.0028,2500,1,
+SGP,2024,0.394331,0.3972,0.0029,2500,1,
+SGP,2025,0.383488,,,2500,1,computed only; no published table this year to check against
+SLB,2025,0.113643,,,5,0,computed only; no published table this year to check against
+SLV,2025,0.117567,,,50,0,computed only; no published table this year to check against
+SRB,2019,0.162305,,,50,0,computed only; no published table this year to check against
+SRB,2020,0.148984,,,50,0,computed only; no published table this year to check against
+SRB,2021,0.140766,,,50,0,computed only; no published table this year to check against
+SRB,2022,0.134826,0.1348,0.0,50,0,
+SRB,2023,0.130701,0.1307,0.0,50,0,
+SRB,2024,0.126834,0.1269,0.0001,50,0,
+SRB,2025,0.117567,,,50,0,computed only; no published table this year to check against
+SWE,2016,0.891873,,,6300,1,computed only; no published table this year to check against
+SWE,2017,0.815927,,,6300,1,computed only; no published table this year to check against
+SWE,2018,0.78478,,,6300,1,computed only; no published table this year to check against
+SWE,2019,0.766443,,,6300,1,computed only; no published table this year to check against
+SWE,2020,0.752575,,,6300,1,computed only; no published table this year to check against
+SWE,2021,0.743836,,,6300,1,computed only; no published table this year to check against
+SWE,2022,0.736394,0.7421,0.0057,6300,1,
+SWE,2023,0.731535,0.7377,0.0062,6300,1,
+SWE,2024,0.727605,0.7339,0.0063,6300,1,
+SWE,2025,0.7148,,,6300,1,computed only; no published table this year to check against
+TGO,2023,0.130701,0.1307,0.0,50,0,
+TGO,2024,0.126834,0.1269,0.0001,50,0,
+TGO,2025,0.117567,,,50,0,computed only; no published table this year to check against
+THA,2016,1.645306,,,14275,1,computed only; no published table this year to check against
+THA,2017,1.531603,,,14275,1,computed only; no published table this year to check against
+THA,2018,1.490818,,,14275,1,computed only; no published table this year to check against
+THA,2019,1.469802,,,14275,1,computed only; no published table this year to check against
+THA,2020,1.455297,,,14275,1,computed only; no published table this year to check against
+THA,2021,1.445952,,,14275,1,computed only; no published table this year to check against
+THA,2022,1.436761,1.4492,0.0124,14275,1,
+THA,2023,1.431045,1.4444,0.0134,14275,1,
+THA,2024,1.427042,1.4406,0.0136,14275,1,
+THA,2025,1.410118,,,14275,1,computed only; no published table this year to check against
+TJK,2016,0.325877,,,309,1,computed only; no published table this year to check against
+TJK,2017,0.278295,,,309,1,computed only; no published table this year to check against
+TJK,2018,0.254388,,,309,1,computed only; no published table this year to check against
+TJK,2019,0.238064,,,309,1,computed only; no published table this year to check against
+TJK,2020,0.224675,,,309,1,computed only; no published table this year to check against
+TJK,2021,0.216392,,,309,1,computed only; no published table this year to check against
+TJK,2022,0.210263,0.2083,0.002,309,1,
+TJK,2023,0.206047,0.2041,0.0019,309,1,
+TJK,2024,0.202172,0.2003,0.0019,309,1,
+TJK,2025,0.192461,,,309,1,computed only; no published table this year to check against
+TLS,2017,0.21108,,,160,0,computed only; no published table this year to check against
+TLS,2018,0.188078,,,160,0,computed only; no published table this year to check against
+TLS,2019,0.172006,,,160,0,computed only; no published table this year to check against
+TLS,2020,0.158677,,,160,0,computed only; no published table this year to check against
+TLS,2021,0.15045,,,160,0,computed only; no published table this year to check against
+TLS,2022,0.144486,0.1446,0.0001,160,0,
+TLS,2023,0.14035,0.1405,0.0002,160,0,
+TLS,2024,0.136482,0.1366,0.0001,160,0,
+TLS,2025,0.127158,,,160,0,computed only; no published table this year to check against
+TON,2021,0.13742,,,12,0,computed only; no published table this year to check against
+TON,2022,0.131489,0.1315,0.0,12,0,
+TON,2023,0.127368,0.1273,0.0001,12,0,
+TON,2024,0.123501,0.1235,0.0,12,0,
+TON,2025,0.114254,,,12,0,computed only; no published table this year to check against
+TUN,2022,0.134826,0.1348,0.0,50,0,
+TUN,2023,0.130701,0.1307,0.0,50,0,
+TUN,2024,0.126834,0.1269,0.0001,50,0,
+TUN,2025,0.117567,,,50,0,computed only; no published table this year to check against
+TUR,2016,2.705685,,,26099,0,computed only; no published table this year to check against
+TUR,2017,2.538845,,,26099,0,computed only; no published table this year to check against
+TUR,2018,2.484495,,,26099,0,computed only; no published table this year to check against
+TUR,2019,2.459708,,,26099,0,computed only; no published table this year to check against
+TUR,2020,2.444305,,,26099,0,computed only; no published table this year to check against
+TUR,2021,2.434107,,,26099,0,computed only; no published table this year to check against
+TUR,2022,2.475147,2.4974,0.0223,26099,1,
+TUR,2023,2.468163,2.4922,0.024,26099,1,
+TUR,2024,2.464051,2.4884,0.0243,26099,1,
+TUR,2025,2.44102,,,26099,1,computed only; no published table this year to check against
+TZA,2025,0.117567,,,50,0,computed only; no published table this year to check against
+URY,2020,0.148984,,,50,0,computed only; no published table this year to check against
+URY,2021,0.140766,,,50,0,computed only; no published table this year to check against
+URY,2022,0.134826,0.1348,0.0,50,0,
+URY,2023,0.130701,0.1307,0.0,50,0,
+URY,2024,0.126834,0.1269,0.0001,50,0,
+URY,2025,0.117567,,,50,0,computed only; no published table this year to check against
+UZB,2016,0.504339,,,2198,1,computed only; no published table this year to check against
+UZB,2017,0.447814,,,2198,1,computed only; no published table this year to check against
+UZB,2018,0.421624,,,2198,1,computed only; no published table this year to check against
+UZB,2019,0.404666,,,2198,1,computed only; no published table this year to check against
+UZB,2020,0.391126,,,2198,1,computed only; no published table this year to check against
+UZB,2021,0.382698,,,2198,1,computed only; no published table this year to check against
+UZB,2022,0.376156,0.3785,0.0023,2198,1,
+UZB,2023,0.371737,0.3742,0.0025,2198,1,
+UZB,2024,0.367844,0.3704,0.0026,2198,1,
+UZB,2025,0.357157,,,2198,1,computed only; no published table this year to check against
+VNM,2016,0.866648,,,6633,0,computed only; no published table this year to check against
+VNM,2017,0.791967,,,6633,0,computed only; no published table this year to check against
+VNM,2018,0.761142,,,6633,0,computed only; no published table this year to check against
+VNM,2019,0.742895,,,6633,0,computed only; no published table this year to check against
+VNM,2020,0.729049,,,6633,0,computed only; no published table this year to check against
+VNM,2021,0.773154,,,6633,1,computed only; no published table this year to check against
+VNM,2022,0.765639,0.7717,0.0061,6633,1,
+VNM,2023,0.760743,0.7672,0.0065,6633,1,
+VNM,2024,0.75681,0.7634,0.0066,6633,1,
+VNM,2025,0.743833,,,6633,1,computed only; no published table this year to check against
+VUT,2018,0.174356,,,5,0,computed only; no published table this year to check against
+VUT,2019,0.158336,,,5,0,computed only; no published table this year to check against
+VUT,2020,0.145019,,,5,0,computed only; no published table this year to check against
+VUT,2021,0.136804,,,5,0,computed only; no published table this year to check against
+VUT,2022,0.130874,0.1309,0.0,5,0,
+VUT,2023,0.126754,0.1267,0.0001,5,0,
+VUT,2024,0.122887,0.1229,0.0,5,0,
+VUT,2025,0.113643,,,5,0,computed only; no published table this year to check against
+WSM,2018,0.175772,,,21,0,computed only; no published table this year to check against
+WSM,2019,0.159747,,,21,0,computed only; no published table this year to check against
+WSM,2020,0.146429,,,21,0,computed only; no published table this year to check against
+WSM,2021,0.138212,,,21,0,computed only; no published table this year to check against
+WSM,2022,0.132279,0.1323,0.0,21,0,
+WSM,2023,0.128158,0.1281,0.0001,21,0,
+WSM,2024,0.124291,0.1243,0.0,21,0,
+WSM,2025,0.115038,,,21,0,computed only; no published table this year to check against
+ZAF,2023,0.183329,0.1839,0.0006,50,1,
+ZAF,2024,0.179456,0.1801,0.0006,50,1,
+ZAF,2025,0.169879,,,50,1,computed only; no published table this year to check against

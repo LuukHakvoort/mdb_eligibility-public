@@ -1,0 +1,18 @@
+bank,iso3,event_type,start_date,end_date,source,note
+IBRD,RUS,sanctions_suspension,2022-03,,World Bank Group announced operations halted in Russia,Verify exact date and whether IDA/IFC statements differ
+IDA,RUS,sanctions_suspension,2022-03,,World Bank Group announced operations halted in Russia,See IBRD row
+IBRD,BLR,sanctions_suspension,2022-03,,World Bank Group announced operations halted in Belarus,Verify exact date
+IDA,BLR,sanctions_suspension,2022-03,,World Bank Group announced operations halted in Belarus,See IBRD row
+IDA,AFG,sanctions_suspension,2021-08,,World Bank disbursements to Afghanistan suspended following the August 2021 change of government,Verify exact date and scope (IDA grants vs all disbursements)
+IDA,MMR,sanctions_suspension,2021-02,,World Bank paused new financing to Myanmar following the February 2021 coup,Verify exact date and whether this is "new financing" only or all disbursements
+EBRD,RUS,sanctions_suspension,2014,,EBRD curtailed new investment in Russia following the 2014 Crimea annexation,Partial 2014 curtailment vs full 2022 suspension may need two rows -- your judgement call
+EBRD,RUS,sanctions_suspension,2022-03,,EBRD Board of Governors suspended Russia's access to Bank resources,Verify exact date; consider whether this supersedes or extends the 2014 row
+EBRD,BLR,sanctions_suspension,2022-03,,EBRD suspended new investment in Belarus,Verify exact date
+NDB,RUS,sanctions_suspension,2022-03,,NDB paused new lending activities involving Russia,Verify exact date
+IBRD,ZWE,non_accrual,,,,Blank: needs annual report subsequent-events note to confirm start year and whether it bars new commitments
+AfDB,ZWE,non_accrual,,,,"Blank: same as above, AfDB side"
+IBRD,SDN,non_accrual,,,,Blank: needs annual report note
+AfDB,SDN,non_accrual,,,,Blank: needs annual report note
+IBRD,SOM,non_accrual,,,,Blank: needs annual report note
+IBRD,SYR,sanctions_suspension,,,,"Blank: needs a specific triggering event and date, not assumed from country context"
+IBRD,ERI,non_accrual,,,,Blank: needs annual report note
